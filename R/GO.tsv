@@ -1,0 +1,1375 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A1L461	REV1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:21926160		9606	CACAO		P
+UniProtKB	A1Z1Q3	MACROD2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:23474712		9606	UniProt		P
+UniProtKB	A4GXA9	EME2	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:17289582		9606	ComplexPortal		P
+UniProtKB	A6NF83	NUPR2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25899918		9606	UniProt		P
+UniProtKB	A8MT69	CENPX	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:20347429		9606	ComplexPortal		P
+UniProtKB	C0HM98	CTBP1-DT	involved_in	GO:0000725	recombinational repair	ECO:0000315	IMP	PMID:35849344		9606	UniProt		P
+UniProtKB	C0HM98	CTBP1-DT	involved_in	GO:0006301	DNA damage tolerance	ECO:0000315	IMP	PMID:35849344		9606	UniProt		P
+UniProtKB	O00213	APBB1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18468999		9606	UniProt		P
+UniProtKB	O00255	MEN1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:16690369		9606	UniProt		P
+UniProtKB	O00409	FOXN3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000316	IGI	PMID:9154802	UniProtKB:P38111	9606	UniProt		P
+UniProtKB	O00487	PSMD14	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:22909820		9606	UniProt		P
+UniProtKB	O00487	PSMD14	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:22909820		9606	UniProt		P
+UniProtKB	O00497	hMLH1	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:11555625		9606	MGI		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:16963448		9606	UniProt		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19716789		9606	UniProt		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19716789		9606	UniProt		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:20932473		9606	UniProt		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:20932473		9606	UniProt		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:16963448		9606	UniProt		P
+UniProtKB	O14867	BACH1	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:11301010		9606	CACAO		P
+UniProtKB	O15151	MDM4	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000270	IEP	PMID:14660608		9606	UniProt		P
+UniProtKB	O15315	RAD51B	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23149936		9606	UniProt		P
+UniProtKB	O15350	TP73	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18174154		9606	UniProt		P
+UniProtKB	O15350	TP73	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:18174154		9606	UniProt		P
+UniProtKB	O15350	TP73	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:19490146		9606	UniProt		P
+UniProtKB	O15379	HDAC3	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:25301942		9606	UniProt		P
+UniProtKB	O15516	CLOCK	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21659603		9606	UniProt		P
+UniProtKB	O15527	OGG1	acts_upstream_of_or_within	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:19506022		9606	MGI		P
+UniProtKB	O15527	OGG1	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000316	IGI	PMID:19506022	UniProtKB:P43351	9606	MGI		P
+UniProtKB	O43189	PHF1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:23142980		9606	UniProt		P
+UniProtKB	O43299	AP5Z1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:20613862		9606	UniProt		P
+UniProtKB	O43463	SUV39H1	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23509280		9606	MGI		P
+UniProtKB	O43464	HTRA2	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000315	IMP	PMID:11602612		9606	ParkinsonsUK-UCL	happens_during(GO:0010225)	P
+UniProtKB	O43502	RAD51C	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23149936		9606	UniProt		P
+UniProtKB	O43502	RAD51C	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:19451272		9606	UniProt		P
+UniProtKB	O43521	BCL2L11	acts_upstream_of_or_within	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:11546872		9606	MGI		P
+UniProtKB	O43542	XRCC3	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23149936		9606	UniProt		P
+UniProtKB	O43542	XRCC3	involved_in	GO:0006281	DNA repair	ECO:0000316	IGI	PMID:10422536		9606	BHF-UCL		P
+UniProtKB	O43542	XRCC3	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:26323318		9606	ParkinsonsUK-UCL		P
+UniProtKB	O43543	XRCC2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23149936		9606	UniProt		P
+UniProtKB	O43543	XRCC2	involved_in	GO:0006281	DNA repair	ECO:0000316	IGI	PMID:10422536		9606	BHF-UCL		P
+UniProtKB	O43715	TRIAP1	acts_upstream_of	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:15735003		9606	BHF-UCL		P
+UniProtKB	O43715	TRIAP1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:15735003		9606	BHF-UCL	causally_upstream_of(GO:0031571)	P
+UniProtKB	O43719	HTATSF1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:35597237		9606	UniProt		P
+UniProtKB	O43719	HTATSF1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:35597237		9606	UniProt		P
+UniProtKB	O60264	SMARCA5	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:23911928		9606	UniProt		P
+UniProtKB	O60341	KDM1A	acts_upstream_of_or_within	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:24217620		9606	MGI		P
+UniProtKB	O60671	RAD1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21659603		9606	UniProt		P
+UniProtKB	O60673	REV3L	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:24449906		9606	UniProt		P
+UniProtKB	O60673	REV3L	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:24449906		9606	ComplexPortal		P
+UniProtKB	O60729	CDC14B	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	O60870	KIN	involved_in	GO:0006974	DNA damage response	ECO:0000270	IEP	PMID:12853634		9606	UniProt		P
+UniProtKB	O60921	HUS1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21659603		9606	UniProt		P
+UniProtKB	O60934	NBN	acts_upstream_of_or_within	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:12529385		9606	MGI		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:22464731		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:23115235		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27814491		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27889449		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28867292		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:30787182		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:30952868		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:30952868		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:38961290		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:16622404		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:9590181		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:11438675		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000314	IDA	PMID:28216226		9606	UniProt	occurs_in(GO:0000781)	P
+UniProtKB	O60934	NBN	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000314	IDA	PMID:28216226		9606	UniProt	part_of(GO:0043247)	P
+UniProtKB	O60934	NBN	involved_in	GO:0043247	telomere maintenance in response to DNA damage	ECO:0000314	IDA	PMID:28216226		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0043247	telomere maintenance in response to DNA damage	ECO:0000314	IDA	PMID:28216226		9606	UniProt		P
+UniProtKB	O60934	NBN	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:28216226		9606	UniProt	occurs_in(GO:0000781)	P
+UniProtKB	O60934	NBN	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:28216226		9606	UniProt	part_of(GO:0043247)	P
+UniProtKB	O75367	MACROH2A1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:21211722		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:19188258		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22135286		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25642963		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25643323		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:30655289		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:25643323		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:25775267		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:27311885		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:27591252		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:31562312		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:32234782		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:34179826		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:36455556		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37440612		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37440612		9606	UniProt		P
+UniProtKB	O75417	POLQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37674080		9606	UniProt		P
+UniProtKB	O75663	TIPRL	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17384681		9606	UniProt		P
+UniProtKB	O75771	RAD51D	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23149936		9606	UniProt		P
+UniProtKB	O75792	RNASEH2A	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:23603115		9606	MGI		P
+UniProtKB	O75909	CCNK	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:22012619		9606	MGI		P
+UniProtKB	O75925	PIAS1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:36050397		9606	UniProt		P
+UniProtKB	O75943	RAD17	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:15538388		9606	UniProt		P
+UniProtKB	O75943	RAD17	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15538388		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:18001824		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:18001825		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22980979		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20550933		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:21911360		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22266820		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22373579		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22980979		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:18001824		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:18001825		9606	UniProt		P
+UniProtKB	O76064	RNF8	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:22980979		9606	UniProt		P
+UniProtKB	O94762	RECQL5	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:22973052		9606	UniProt		P
+UniProtKB	O94874	UFL1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:30886146		9606	UniProt		P
+UniProtKB	O94874	UFL1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:30886146		9606	UniProt		P
+UniProtKB	O94874	UFL1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30783677		9606	UniProt		P
+UniProtKB	O94874	UFL1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30783677		9606	UniProt		P
+UniProtKB	O94874	UFL1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32807901		9606	UniProt		P
+UniProtKB	O94874	UFL1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32807901		9606	UniProt		P
+UniProtKB	O94892	ZNF432	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37823600		9606	UniProt		P
+UniProtKB	O94916	NFAT5	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:34049076		9606	UniProt		P
+UniProtKB	O95071	UBR5	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:12011095		9606	HGNC-UCL		P
+UniProtKB	O95071	UBR5	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:22884692		9606	UniProt		P
+UniProtKB	O95551	TDP2	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:19794497		9606	UniProt		P
+UniProtKB	O95551	TDP2	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:21030584		9606	UniProt		P
+UniProtKB	O95714	HERC2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22508508		9606	UniProt		P
+UniProtKB	O96017	CHEK2	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:24550317		9606	MGI		P
+UniProtKB	O96017	CHEK2	acts_upstream_of_or_within	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:14744935		9606	MGI		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:18317453		9606	UniProt		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:16481012		9606	UniProt		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:12402044		9606	UniProt		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000315	IMP	PMID:12717439		9606	UniProt		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000315	IMP	PMID:18644861		9606	UniProt		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:11298456		9606	UniProt		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000315	IMP	PMID:11298456		9606	UniProt		P
+UniProtKB	P00519	ABL1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15657060		9606	UniProt		P
+UniProtKB	P00519	ABL1	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:15657060		9606	UniProt		P
+UniProtKB	P00519	ABL1	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:18280240		9606	UniProt		P
+UniProtKB	P00519	ABL1	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:9037071		9606	UniProt		P
+UniProtKB	P01106	MYC	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17873522		9606	UniProt		P
+UniProtKB	P02545	LMNA	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:31548606		9606	UniProt		P
+UniProtKB	P04628	WNT1	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:16501043		9606	BHF-UCL		P
+UniProtKB	P04637	TP53	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:14744935		9606	MGI		P
+UniProtKB	P04637	TP53	acts_upstream_of_or_within	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:14654789		9606	MGI		P
+UniProtKB	P04637	TP53	acts_upstream_of_or_within	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:14744935		9606	MGI		P
+UniProtKB	P04637	TP53	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:7663514		9606	UniProt		P
+UniProtKB	P04637	TP53	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15710329		9606	BHF-UCL		P
+UniProtKB	P04637	TP53	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17938203		9606	UniProt		P
+UniProtKB	P04637	TP53	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24356969		9606	UniProt		P
+UniProtKB	P04637	TP53	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30089260		9606	ARUK-UCL		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:15149599		9606	UniProt		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:15149599		9606	BHF-UCL	causally_upstream_of(GO:0031571)	P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:16213212		9606	CAFA		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:16213212		9606	CAFA		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:16479015		9606	UniProt		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:20160708		9606	BHF-UCL		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:20160708		9606	UniProt		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:29681526		9606	UniProt		P
+UniProtKB	P04637	TP53	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:7958916		9606	BHF-UCL		P
+UniProtKB	P04637	TP53	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:7958916		9606	BHF-UCL		P
+UniProtKB	P04637	TP53	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000315	IMP	PMID:16213212		9606	CAFA		P
+UniProtKB	P04637	TP53	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:17403783		9606	UniProt		P
+UniProtKB	P06493	CDK1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19202191		9606	UniProt		P
+UniProtKB	P06746	POLB	NOT|involved_in	GO:0006297	nucleotide-excision repair, DNA gap filling	ECO:0000315	IMP	PMID:20227374		9606	UniProt		P
+UniProtKB	P06746	POLB	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:16600869		9606	UniProt		P
+UniProtKB	P06746	POLB	involved_in	GO:0006284	base-excision repair	ECO:0000315	IMP	PMID:21362556		9606	UniProt		P
+UniProtKB	P06746	POLB	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:21362556		9606	UniProt		P
+UniProtKB	P06748	NPM1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:19188445		9606	UniProt		P
+UniProtKB	P07948	LYN	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:10891478		9606	UniProt		P
+UniProtKB	P07948	LYN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:11517336		9606	UniProt		P
+UniProtKB	P07992	ERCC1	acts_upstream_of_or_within	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:25538220		9606	MGI		P
+UniProtKB	P07992	ERCC1	acts_upstream_of_or_within	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:3290851		9606	MGI		P
+UniProtKB	P07992	ERCC1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:7657672		9606	UniProt		P
+UniProtKB	P07992	ERCC1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:14690602		9606	BHF-UCL	occurs_in(GO:0000781)	P
+UniProtKB	P09430	TNP1	involved_in	GO:0000012	single strand break repair	ECO:0000314	IDA	PMID:12743712		9606	UniProt		P
+UniProtKB	P09874	PARP1	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24550317		9606	MGI		P
+UniProtKB	P09874	PARP1	acts_upstream_of_or_within	GO:0043504	mitochondrial DNA repair	ECO:0000315	IMP	PMID:25378300		9606	MGI		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:30104678		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:30675909		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:31796734		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:32028527		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:33186521		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:34874266		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:34874266		9606	UniProt	part_of(GO:0071168)	P
+UniProtKB	P09874	PARP1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:23230272		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:24906880		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:27568560		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:27568560		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:28190768		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22683995		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24289924		9606	BHF-UCL	part_of(GO:0034644)	P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27067600		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32358582		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:35013556		9606	UniProt		P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:35393539		9606	UniProt	part_of(GO:0034244)	P
+UniProtKB	P09874	PARP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37823600		9606	UniProt		P
+UniProtKB	P09884	POLA1	NOT|involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:3335506		9606	UniProt		P
+UniProtKB	P09884	POLA1	NOT|involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:1508673		9606	UniProt		P
+UniProtKB	P09884	POLA1	NOT|involved_in	GO:1904161	DNA synthesis involved in UV-damage excision repair	ECO:0000315	IMP	PMID:1730053		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000315	IMP	PMID:11470886		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:11470886		9606	UniProt		P
+UniProtKB	P09884	POLA1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:11470886		9606	UniProt		P
+UniProtKB	P0C2W1	FBXO45	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19581926		9606	UniProt		P
+UniProtKB	P10415	BCL2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875758		9606	UniProt		P
+UniProtKB	P10636	MAPT	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:21131359		9606	ParkinsonsUK-UCL	occurs_in(CL:0000540),part_of(GO:1900034)	P
+UniProtKB	P11388	TOP2A	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:16611985		9606	UniProt		P
+UniProtKB	P12004	PCNA	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:11005803		9606	BHF-UCL		P
+UniProtKB	P12004	PCNA	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:20129063		9606	UniProt		P
+UniProtKB	P12956	XRCC6	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:20383123		9606	UniProt		P
+UniProtKB	P12956	XRCC6	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:26359349		9606	UniProt		P
+UniProtKB	P12956	XRCC6	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:24095731		9606	BHF-UCL		P
+UniProtKB	P12956	XRCC6	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:9826654		9606	UniProt		P
+UniProtKB	P13010	XRCC5	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19581589		9606	BHF-UCL		P
+UniProtKB	P13010	XRCC5	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:20383123		9606	UniProt		P
+UniProtKB	P13010	XRCC5	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:26359349		9606	UniProt		P
+UniProtKB	P13010	XRCC5	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	P13051	UNG	involved_in	GO:0097510	base-excision repair, AP site formation via deaminated base removal	ECO:0000314	IDA	PMID:18973764		9606	UniProt		P
+UniProtKB	P13051	UNG	involved_in	GO:0097510	base-excision repair, AP site formation via deaminated base removal	ECO:0000314	IDA	PMID:18973764		9606	UniProt		P
+UniProtKB	P15336	ATF2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:15916964		9606	UniProt		P
+UniProtKB	P15336	ATF2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22304920		9606	UniProt		P
+UniProtKB	P15336	ATF2	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15916964		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:17765923		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:9765279		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21731742		9606	UniProt		P
+UniProtKB	P15941	MUC1	acts_upstream_of	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:15710329		9606	BHF-UCL		P
+UniProtKB	P15941	MUC1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:15710329		9606	BHF-UCL	causally_upstream_of(GO:0031571)	P
+UniProtKB	P16104	H2AX	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:17974976		9606	UniProt		P
+UniProtKB	P16104	H2AX	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15149599		9606	BHF-UCL		P
+UniProtKB	P16104	H2AX	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	P16410	CTLA4	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875758		9606	UniProt		P
+UniProtKB	P17812	CTPS1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:40240600		9606	UniProt		P
+UniProtKB	P17812	CTPS1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:40240600		9606	UniProt		P
+UniProtKB	P18074	ERCC2	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:8663148		9606	UniProt		P
+UniProtKB	P18074	ERCC2	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:8692841		9606	UniProt		P
+UniProtKB	P18858	LIG1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL		P
+UniProtKB	P18887	XRCC1	involved_in	GO:0000012	single strand break repair	ECO:0000315	IMP	PMID:28002403		9606	UniProt		P
+UniProtKB	P18887	XRCC1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL		P
+UniProtKB	P18887	XRCC1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:34102106		9606	UniProt		P
+UniProtKB	P18887	XRCC1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:34811483		9606	UniProt		P
+UniProtKB	P18887	XRCC1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL		P
+UniProtKB	P19447	ERCC3	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:2167179		9606	UniProt		P
+UniProtKB	P19447	ERCC3	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:8663148		9606	UniProt		P
+UniProtKB	P19447	ERCC3	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:17466626		9606	UniProt		P
+UniProtKB	P19447	ERCC3	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:17509950		9606	UniProt		P
+UniProtKB	P19447	ERCC3	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:8692841		9606	UniProt		P
+UniProtKB	P19784	CSNK2A2	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22325354		9606	UniProt		P
+UniProtKB	P20585	MSH3	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:8942985		9606	BHF-UCL		P
+UniProtKB	P20585	MSH3	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:17715146		9606	BHF-UCL		P
+UniProtKB	P20585	MSH3	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:8782829		9606	HGNC-UCL		P
+UniProtKB	P20585	MSH3	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:9677427		9606	ComplexPortal		P
+UniProtKB	P20749	BCL3	acts_upstream_of_or_within	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000315	IMP	PMID:16384933		9606	MGI		P
+UniProtKB	P20749	BCL3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:16384933		9606	UniProt		P
+UniProtKB	P20749	BCL3	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:16384933		9606	UniProt		P
+UniProtKB	P21675	TAF1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:24289924		9606	ParkinsonsUK-UCL		P
+UniProtKB	P22314	UBA1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22456334		9606	UniProt		P
+UniProtKB	P23025	XPA	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:1601884		9606	CAFA		P
+UniProtKB	P23025	XPA	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:1601884		9606	CAFA		P
+UniProtKB	P23025	XPA	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:21148310		9606	CACAO		P
+UniProtKB	P23246	SFPQ	acts_upstream_of_or_within	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:20813759		9606	MGI		P
+UniProtKB	P23396	RPS3	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19059439		9606	UniProt		P
+UniProtKB	P23396	RPS3	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:15518571		9606	GO_Central	has_input(UniProtKB:O15527)	P
+UniProtKB	P23396	RPS3	involved_in	GO:0006974	DNA damage response	ECO:0000270	IEP	PMID:17560175		9606	UniProt		P
+UniProtKB	P23497	SP100	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:14647468		9606	BHF-UCL		P
+UniProtKB	P23921	RRM1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:11719458		9606	ComplexPortal		P
+UniProtKB	P24385	CCND1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19412162		9606	UniProt		P
+UniProtKB	P24385	CCND1	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:19412162		9606	UniProt		P
+UniProtKB	P24522	GADD45A	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000315	IMP	PMID:20160708		9606	BHF-UCL		P
+UniProtKB	P24941	CDK2	involved_in	GO:0043247	telomere maintenance in response to DNA damage	ECO:0000314	IDA	PMID:28216226		9606	UniProt		P
+UniProtKB	P25054	APC	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:14728717		9606	UniProt		P
+UniProtKB	P25490	YY1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:18026119		9606	UniProt		P
+UniProtKB	P25490	YY1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:18026119		9606	UniProt		P
+UniProtKB	P27361	MAPK3	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:17560175		9606	UniProt	has_input(UniProtKB:P23396)	P
+UniProtKB	P27694	RPA1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:17765923		9606	UniProt		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:18469000		9606	CACAO		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:20545304		9606	ComplexPortal		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:9765279		9606	UniProt		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P27694	RPA1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	P27695	APEX1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:1627644		9606	UniProt		P
+UniProtKB	P27695	APEX1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:9560228		9606	UniProt		P
+UniProtKB	P27695	APEX1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:8932386		9606	CAFA		P
+UniProtKB	P27695	APEX1	involved_in	GO:0097698	telomere maintenance via base-excision repair	ECO:0000314	IDA	PMID:24703901		9606	BHF-UCL		P
+UniProtKB	P28340	POLD1	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000315	IMP	PMID:1730053		9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000314	IDA	PMID:24191025		9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000314	IDA	PMID:3335506		9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0006287	base-excision repair, gap-filling	ECO:0000314	IDA	PMID:10559260		9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0006287	base-excision repair, gap-filling	ECO:0000314	IDA	PMID:10559261		9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0006297	nucleotide-excision repair, DNA gap filling	ECO:0000315	IMP	PMID:20227374		9606	UniProt		P
+UniProtKB	P28340	POLD1	involved_in	GO:0070987	error-free translesion synthesis	ECO:0000314	IDA	PMID:24191025		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26833090		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000315	IMP	PMID:16246722		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0006285	base-excision repair, AP site formation	ECO:0000314	IDA	PMID:9927729		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:11259578		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:32522879		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:32821917		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:7657672		9606	UniProt		P
+UniProtKB	P28715	ERCC5	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:8090225		9606	UniProt		P
+UniProtKB	P29317	EPHA2	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:18339848		9606	UniProt	occurs_in(CL:0000148)	P
+UniProtKB	P31350	RRM2	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:22632967		9606	UniProt		P
+UniProtKB	P31947	SFN	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:11574543		9606	HGNC-UCL		P
+UniProtKB	P33993	MCM7	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:15538388		9606	UniProt		P
+UniProtKB	P35244	RPA3	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:17765923		9606	UniProt		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:20545304		9606	ComplexPortal		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:9765279		9606	UniProt		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P35244	RPA3	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:9430682		9606	UniProt		P
+UniProtKB	P36915	GNL1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17525332		9606	UniProt		P
+UniProtKB	P38398	BRCA1	acts_upstream_of_or_within	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:14654789		9606	MGI		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:17349954		9606	HGNC-UCL		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28398198		9606	ComplexPortal		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0006301	DNA damage tolerance	ECO:0000314	IDA	PMID:17349954		9606	HGNC-UCL		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22186889		9606	CACAO		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	P38936	CDKN1A	acts_upstream_of	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:15149599		9606	BHF-UCL		P
+UniProtKB	P38936	CDKN1A	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:20160708		9606	BHF-UCL		P
+UniProtKB	P38936	CDKN1A	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:23213251		9606	UniProt		P
+UniProtKB	P40692	MLH1	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000316	IGI	PMID:23603115	UniProtKB:P43246	9606	MGI		P
+UniProtKB	P40692	MLH1	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000316	IGI	PMID:23603115	UniProtKB:P52701	9606	MGI		P
+UniProtKB	P40692	MLH1	involved_in	GO:0000710	meiotic mismatch repair	ECO:0000314	IDA	PMID:16873062		9606	ComplexPortal		P
+UniProtKB	P41182	BCL6	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15577913		9606	UniProt		P
+UniProtKB	P41208	CETN2	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:11279143		9606	ComplexPortal		P
+UniProtKB	P41208	CETN2	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:15964821		9606	UniProt		P
+UniProtKB	P41218	MNDA	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875758		9606	UniProt		P
+UniProtKB	P42285	MTREX	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:29902117		9606	UniProt		P
+UniProtKB	P42575	CASP2	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:21726810		9606	UniProt	has_participant(UniProtKB:P78560)|has_input(UniProtKB:Q00987)	P
+UniProtKB	P43246	MSH2	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:11555625		9606	MGI		P
+UniProtKB	P43246	MSH2	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000316	IGI	PMID:23603115	UniProtKB:P40692	9606	MGI		P
+UniProtKB	P43246	MSH2	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000316	IGI	PMID:23603115	UniProtKB:P52701	9606	MGI		P
+UniProtKB	P43246	MSH2	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:8942985		9606	BHF-UCL		P
+UniProtKB	P43246	MSH2	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:17715146		9606	BHF-UCL		P
+UniProtKB	P43246	MSH2	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:7923193		9606	UniProt		P
+UniProtKB	P43246	MSH2	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:9677427		9606	ComplexPortal		P
+UniProtKB	P43246	MSH2	involved_in	GO:0006301	DNA damage tolerance	ECO:0000314	IDA	PMID:7923193		9606	UniProt		P
+UniProtKB	P43351	RAD52	acts_upstream_of_or_within	GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	ECO:0000314	IDA	PMID:19506022		9606	MGI		P
+UniProtKB	P43681	CHRNA4	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:16332175		9606	UniProt		P
+UniProtKB	P45973	CBX5	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	P46379	BAG6	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000315	IMP	PMID:17403783		9606	UniProt		P
+UniProtKB	P46695	IER3	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:20467439		9606	MGI		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17525341		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525341		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:19202061		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	P46934	NEDD4	involved_in	GO:0006974	DNA damage response	ECO:0000270	IEP	PMID:17996703		9606	WB		P
+UniProtKB	P46934	NEDD4	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17996703		9606	BHF-UCL		P
+UniProtKB	P46937	YAP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18280240		9606	UniProt		P
+UniProtKB	P49005	POLD2	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:24449906		9606	ComplexPortal		P
+UniProtKB	P49137	MAPKAPK2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:20932473		9606	UniProt		P
+UniProtKB	P49459	UBE2A	involved_in	GO:0006281	DNA repair	ECO:0000316	IGI	PMID:1717990	UniProtKB:P06104	9606	UniProt		P
+UniProtKB	P49768	PSEN1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25542424		9606	ARUK-UCL	occurs_in(UBERON:0001255)	P
+UniProtKB	P49916	LIG3	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL	part_of(GO:0006302)	P
+UniProtKB	P49916	LIG3	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL		P
+UniProtKB	P49916	LIG3	involved_in	GO:0043504	mitochondrial DNA repair	ECO:0000314	IDA	PMID:24674627		9606	BHF-UCL		P
+UniProtKB	P49917	LIG4	involved_in	GO:0000012	single strand break repair	ECO:0000314	IDA	PMID:8798671		9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL	part_of(GO:0006302)	P
+UniProtKB	P49917	LIG4	involved_in	GO:0006297	nucleotide-excision repair, DNA gap filling	ECO:0000314	IDA	PMID:12517771		9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006297	nucleotide-excision repair, DNA gap filling	ECO:0000314	IDA	PMID:17290226		9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:9242410		9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:12517771		9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:17290226		9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:19332554		9606	ComplexPortal		P
+UniProtKB	P49917	LIG4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000316	IGI	PMID:23275564	UniProtKB:Q15554	9606	BHF-UCL	occurs_in(GO:0000781)	P
+UniProtKB	P49917	LIG4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:9809069		9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000315	IMP	PMID:24837021		9606	BHF-UCL		P
+UniProtKB	P49959	MRE11	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17500065		9606	MGI		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:15741314		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:24316220		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27814491		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27889449		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28867292		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:29670289		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:29670289		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:30612738		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:30612738		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:30787182		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:31353207		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:36563124		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:38128537		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000315	IMP	PMID:23080121		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:14657032		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:26240375		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:9651580		9606	CACAO		P
+UniProtKB	P49959	MRE11	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29670289		9606	UniProt		P
+UniProtKB	P50238	CRIP1	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:20415737		9606	UniProt	happens_during(GO:0071493)	P
+UniProtKB	P51530	DNA2	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:21325134		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:18995831		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:0006284	base-excision repair	ECO:0000315	IMP	PMID:37055165		9606	UniProt		P
+UniProtKB	P51530	DNA2	involved_in	GO:0043504	mitochondrial DNA repair	ECO:0000314	IDA	PMID:19487465		9606	UniProt		P
+UniProtKB	P51587	BRCA2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:20729832		9606	UniProt		P
+UniProtKB	P51587	BRCA2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21719596		9606	UniProt		P
+UniProtKB	P51587	BRCA2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28398198		9606	ComplexPortal		P
+UniProtKB	P51587	BRCA2	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:16845393		9606	UniProt		P
+UniProtKB	P51587	BRCA2	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:16845393		9606	UniProt		P
+UniProtKB	P51957	NEK4	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:22851694		9606	CACAO		P
+UniProtKB	P51957	NEK4	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:22851694		9606	UniProt		P
+UniProtKB	P52701	MSH6	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000316	IGI	PMID:23603115	UniProtKB:P40692	9606	MGI		P
+UniProtKB	P52701	MSH6	acts_upstream_of_or_within	GO:0006298	mismatch repair	ECO:0000316	IGI	PMID:23603115	UniProtKB:P43246	9606	MGI		P
+UniProtKB	P52701	MSH6	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:8942985		9606	BHF-UCL		P
+UniProtKB	P52701	MSH6	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:10871409		9606	HGNC-UCL		P
+UniProtKB	P52701	MSH6	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:17715146		9606	BHF-UCL		P
+UniProtKB	P52701	MSH6	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:23622243		9606	UniProt		P
+UniProtKB	P52701	MSH6	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:8782829		9606	HGNC-UCL		P
+UniProtKB	P52926	HMGA2	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:19465398		9606	UniProt		P
+UniProtKB	P53350	PLK1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22325354		9606	UniProt		P
+UniProtKB	P53350	PLK1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22325354		9606	UniProt		P
+UniProtKB	P53350	PLK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	P53350	PLK1	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37440612		9606	UniProt		P
+UniProtKB	P53350	PLK1	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37674080		9606	UniProt		P
+UniProtKB	P54098	POLG	acts_upstream_of_or_within	GO:0006287	base-excision repair, gap-filling	ECO:0000314	IDA	PMID:15177179		9606	MGI		P
+UniProtKB	P54098	POLG	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:9770471		9606	UniProt		P
+UniProtKB	P54098	POLG	involved_in	GO:0045004	DNA replication proofreading	ECO:0000315	IMP	PMID:11897778		9606	UniProt		P
+UniProtKB	P54098	POLG	involved_in	GO:0045004	DNA replication proofreading	ECO:0000314	IDA	PMID:37202477		9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:23543748		9606	ComplexPortal		P
+UniProtKB	P54132	BLM	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:21325134		9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:12818200		9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23509288		9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:11309417		9606	UniProt		P
+UniProtKB	P54278	PMS2	involved_in	GO:0000710	meiotic mismatch repair	ECO:0000314	IDA	PMID:16873062		9606	ComplexPortal		P
+UniProtKB	P54278	PMS2	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:10871409		9606	HGNC-UCL		P
+UniProtKB	P54278	PMS2	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:23709753		9606	UniProt		P
+UniProtKB	P54278	PMS2	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:9618520		9606	CAFA		P
+UniProtKB	P54725	RAD23A	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:9372924		9606	UniProt		P
+UniProtKB	P54727	RAD23B	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:11279143		9606	ComplexPortal		P
+UniProtKB	P54727	RAD23B	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:19941824		9606	GO_Central		P
+UniProtKB	P54727	RAD23B	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:8168482		9606	UniProt		P
+UniProtKB	P54727	RAD23B	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:9734359		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:10855792		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22120668		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:16140914		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22120668		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23042605		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:23042605		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:32152270		9606	UniProt		P
+UniProtKB	P55211	CASP9	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15657060		9606	UniProt		P
+UniProtKB	P55211	CASP9	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:15657060		9606	UniProt		P
+UniProtKB	P55211	CASP9	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000315	IMP	PMID:15657060		9606	UniProt		P
+UniProtKB	P55211	CASP9	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:15657060		9606	UniProt		P
+UniProtKB	P55273	CDKN2D	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000315	IMP	PMID:15750620		9606	BHF-UCL		P
+UniProtKB	P58004	SESN2	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:18692468		9606	UniProt		P
+UniProtKB	P60002	ELOF1	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34108662		9606	UniProt		P
+UniProtKB	P60002	ELOF1	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34108663		9606	UniProt		P
+UniProtKB	P60002	ELOF1	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38316879		9606	UniProt		P
+UniProtKB	P60002	ELOF1	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38316879		9606	UniProt		P
+UniProtKB	P61088	UBE2N	acts_upstream_of	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:17349954		9606	HGNC-UCL		P
+UniProtKB	P61088	UBE2N	acts_upstream_of	GO:0000729	DNA double-strand break processing	ECO:0000315	IMP	PMID:17349954		9606	HGNC-UCL		P
+UniProtKB	P61088	UBE2N	acts_upstream_of	GO:0006301	DNA damage tolerance	ECO:0000315	IMP	PMID:17349954		9606	HGNC-UCL		P
+UniProtKB	P61254	RPL26	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:16213212		9606	CAFA		P
+UniProtKB	P62136	PPP1CA	involved_in	GO:0043247	telomere maintenance in response to DNA damage	ECO:0000314	IDA	PMID:28216226		9606	UniProt		P
+UniProtKB	P62877	RBX1	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34526721		9606	UniProt		P
+UniProtKB	P62877	RBX1	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34526721		9606	UniProt		P
+UniProtKB	P62877	RBX1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26124108		9606	UniProt		P
+UniProtKB	P62877	RBX1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30171069		9606	UniProt		P
+UniProtKB	P62877	RBX1	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:24936062		9606	UniProt		P
+UniProtKB	P62993	GRB2	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000315	IMP	PMID:20160708		9606	BHF-UCL		P
+UniProtKB	P63146	UBE2B	involved_in	GO:0006281	DNA repair	ECO:0000316	IGI	PMID:1717990	UniProtKB:P06104	9606	UniProt		P
+UniProtKB	P63146	UBE2B	involved_in	GO:0006301	DNA damage tolerance	ECO:0000314	IDA	PMID:14981545		9606	UniProt		P
+UniProtKB	P63146	UBE2B	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:14981545		9606	UniProt		P
+UniProtKB	P68400	CSNK2A1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22325354		9606	UniProt		P
+UniProtKB	P68400	CSNK2A1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22325354		9606	UniProt		P
+UniProtKB	P68400	CSNK2A1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18411307		9606	UniProt		P
+UniProtKB	P68400	CSNK2A1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18583988		9606	UniProt		P
+UniProtKB	P68400	CSNK2A1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20545769		9606	UniProt		P
+UniProtKB	P68400	CSNK2A1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30898438		9606	UniProt		P
+UniProtKB	P68400	CSNK2A1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:35597237		9606	UniProt		P
+UniProtKB	P78527	PRKDC	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:18710952		9606	BHF-UCL		P
+UniProtKB	P78527	PRKDC	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26237645		9606	UniProt		P
+UniProtKB	P78527	PRKDC	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29478807		9606	UniProt		P
+UniProtKB	P78527	PRKDC	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:35460603		9606	UniProt		P
+UniProtKB	P78527	PRKDC	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21731742		9606	UniProt		P
+UniProtKB	P78543	BTG2	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:8944033		9606	MGI		P
+UniProtKB	P78549	NTHL1	involved_in	GO:0006285	base-excision repair, AP site formation	ECO:0000314	IDA	PMID:15358233		9606	UniProt		P
+UniProtKB	P78549	NTHL1	involved_in	GO:0006285	base-excision repair, AP site formation	ECO:0000314	IDA	PMID:9927729		9606	UniProt		P
+UniProtKB	P78549	NTHL1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:8990169		9606	UniProt		P
+UniProtKB	P78560	CRADD	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:21726810		9606	UniProt	has_input(UniProtKB:P42575)|has_input(UniProtKB:Q00987)|has_participant(UniProtKB:Q9HB75)	P
+UniProtKB	P83916	CBX1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	P98170	XIAP	involved_in	GO:0006974	DNA damage response	ECO:0000270	IEP	PMID:18049476		9606	UniProt		P
+UniProtKB	Q00526	CDK3	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:24550317		9606	MGI		P
+UniProtKB	Q00987	MDM2	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:21726810		9606	UniProt		P
+UniProtKB	Q01094	E2F1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:12717439		9606	UniProt		P
+UniProtKB	Q01094	E2F1	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000315	IMP	PMID:12717439		9606	UniProt		P
+UniProtKB	Q01664	TFAP4	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:18818310		9606	UniProt		P
+UniProtKB	Q01726	MC1R	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:18292087		9606	BHF-UCL		P
+UniProtKB	Q01804	OTUD4	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:25944111		9606	UniProt		P
+UniProtKB	Q01831	XPC	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:11259578		9606	UniProt		P
+UniProtKB	Q01831	XPC	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:11279143		9606	ComplexPortal		P
+UniProtKB	Q01831	XPC	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:19941824		9606	GO_Central		P
+UniProtKB	Q01831	XPC	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:8168482		9606	UniProt		P
+UniProtKB	Q01831	XPC	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:9734359		9606	UniProt		P
+UniProtKB	Q01831	XPC	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:8077226		9606	CACAO		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0000012	single strand break repair	ECO:0000314	IDA	PMID:29545921		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:25820262		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000315	IMP	PMID:10564257		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000315	IMP	PMID:26620705		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:32355176		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:32355176		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34526721		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38316879		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38600235		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:9565609		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0006284	base-excision repair	ECO:0000315	IMP	PMID:9973627		9606	UniProt		P
+UniProtKB	Q03468	ERCC6	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:29545921		9606	UniProt		P
+UniProtKB	Q05655	PRKCD	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17938203		9606	UniProt	has_input(UniProtKB:Q9NYF8),has_input(UniProtKB:P04637)	P
+UniProtKB	Q05BQ5	MBTD1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q05BQ5	MBTD1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q05BQ5	MBTD1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:32209463		9606	UniProt		P
+UniProtKB	Q06609	RAD51	acts_upstream_of_or_within	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:16428451		9606	MGI		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:17996710		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:17996710		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:17996711		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:18417535		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:22778135		9606	BHF-UCL		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23509288		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26681308		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:26811421		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27239033		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:32640219		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0000730	DNA recombinase assembly	ECO:0000315	IMP	PMID:26681308		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17996710		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17996711		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23509288		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25585578		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:26681308		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27239033		9606	UniProt		P
+UniProtKB	Q06609	RAD51	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:26253028		9606	UniProt		P
+UniProtKB	Q06787	FMR1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:24813610		9606	UniProt		P
+UniProtKB	Q07812	BAX	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:11912183		9606	HGNC-UCL		P
+UniProtKB	Q07820	MCL1	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:20467439		9606	MGI		P
+UniProtKB	Q07864	POLE	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000315	IMP	PMID:1730053		9606	UniProt		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006287	base-excision repair, gap-filling	ECO:0000314	IDA	PMID:10559260		9606	UniProt		P
+UniProtKB	Q07864	POLE	involved_in	GO:0006297	nucleotide-excision repair, DNA gap filling	ECO:0000315	IMP	PMID:20227374		9606	UniProt		P
+UniProtKB	Q08050	FOXM1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:17101782		9606	UniProt		P
+UniProtKB	Q09472	EP300	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:17403783		9606	UniProt		P
+UniProtKB	Q09472	EP300	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:40240600		9606	UniProt		P
+UniProtKB	Q09472	EP300	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:40240600		9606	UniProt		P
+UniProtKB	Q0D2I5	IFFO1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:31548606		9606	UniProt		P
+UniProtKB	Q0D2I5	IFFO1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:31548606		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17500065		9606	MGI		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:23333306		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:23333306		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:23333306		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:23760478		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:28241136		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:31135337		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28241136		9606	UniProt		P
+UniProtKB	Q12888	TP53BP1	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q13153	PAK1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23260667		9606	UniProt		P
+UniProtKB	Q13156	RPA4	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:19942684		9606	UniProt		P
+UniProtKB	Q13156	RPA4	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:20545304		9606	ComplexPortal		P
+UniProtKB	Q13156	RPA4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:19996105		9606	UniProt		P
+UniProtKB	Q13185	CBX3	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	acts_upstream_of_or_within	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:12732143		9606	MGI		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0000012	single strand break repair	ECO:0000314	IDA	PMID:29545921		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:32142649		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:32355176		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34526721		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34526721		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38316879		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38600235		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:11782547		9606	UniProt		P
+UniProtKB	Q13216	ERCC8	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:29545921		9606	UniProt		P
+UniProtKB	Q13232	NME3	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:26945015		9606	UniProt		P
+UniProtKB	Q13263	TRIM28	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:17178852		9606	UniProt		P
+UniProtKB	Q13315	ATM	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24550317		9606	MGI		P
+UniProtKB	Q13315	ATM	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:30886146		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:30886146		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:10802669		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:10802669		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:26240375		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:26240375		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:10611322		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:16213212		9606	CAFA		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875758		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875758		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19412162		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:24534091		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30171069		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30952868		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:38128537		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:9733515		9606	BHF-UCL	part_of(GO:0010212)	P
+UniProtKB	Q13315	ATM	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15149599		9606	BHF-UCL		P
+UniProtKB	Q13315	ATM	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:26774286		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000315	IMP	PMID:27664052		9606	UniProt		P
+UniProtKB	Q13330	MTA1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19805145		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:19589734		9606	BHF-UCL		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:9242410		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:12517771		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:15385968		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:17290226		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:19332554		9606	ComplexPortal		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:25597996		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:25742519		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:25934149		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:26774286		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:27437582		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:28453785		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:28500754		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:31548606		9606	UniProt		P
+UniProtKB	Q13426	XRCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:9809069	UniProtKB:P49917	9606	UniProt		P
+UniProtKB	Q13469	NFATC2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875758		9606	UniProt		P
+UniProtKB	Q13472	TOP3A	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:23543748		9606	ComplexPortal		P
+UniProtKB	Q13535	ATR	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:14657349		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:21705319		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:21777809		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:21777809		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:11390642		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:11673449		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27723717		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27723720		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37788673		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37832547		9606	UniProt		P
+UniProtKB	Q13535	ATR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37832547		9606	UniProt		P
+UniProtKB	Q13569	TDG	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:21862836		9606	UniProt		P
+UniProtKB	Q13569	TDG	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:22327402		9606	UniProt		P
+UniProtKB	Q13569	TDG	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:22573813		9606	UniProt		P
+UniProtKB	Q13573	SNW1	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000315	IMP	PMID:21460037		9606	UniProt		P
+UniProtKB	Q13620	CUL4B	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:22334663		9606	UniProt		P
+UniProtKB	Q13686	ALKBH1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:19959401		9606	UniProt		P
+UniProtKB	Q14159	SPIDR	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23509288		9606	UniProt		P
+UniProtKB	Q14159	SPIDR	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:27967308		9606	UniProt		P
+UniProtKB	Q14159	SPIDR	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:34697795		9606	UniProt		P
+UniProtKB	Q14159	SPIDR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23509288		9606	UniProt		P
+UniProtKB	Q14164	IKBKE	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000315	IMP	PMID:20188669		9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000314	IDA	PMID:17563354		9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:17611195		9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:17715146		9606	BHF-UCL		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:21639834		9606	UniProt		P
+UniProtKB	Q14191	WRN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18203716		9606	UniProt		P
+UniProtKB	Q14249	ENDOG	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:33473107		9606	UniProt		P
+UniProtKB	Q14526	HIC1	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:16269335		9606	UniProt		P
+UniProtKB	Q14527	HLTF	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18316726		9606	UniProt		P
+UniProtKB	Q14527	HLTF	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18719106		9606	UniProt		P
+UniProtKB	Q14669	TRIP12	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:22884692		9606	UniProt		P
+UniProtKB	Q14676	MDC1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30898438		9606	UniProt		P
+UniProtKB	Q14686	NCOA6	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17500065		9606	MGI		P
+UniProtKB	Q14694	USP10	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:25861989		9606	UniProt		P
+UniProtKB	Q14694	USP10	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:20096447		9606	UniProt		P
+UniProtKB	Q14839	CHD4	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:25593309		9606	UniProt		P
+UniProtKB	Q149N8	SHPRH	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25023518		9606	MGI		P
+UniProtKB	Q15004	PCLAF	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:21628590		9606	UniProt		P
+UniProtKB	Q15004	PCLAF	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23000965		9606	UniProt		P
+UniProtKB	Q15004	PCLAF	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:23000965		9606	UniProt		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0006297	nucleotide-excision repair, DNA gap filling	ECO:0000315	IMP	PMID:20227374		9606	UniProt		P
+UniProtKB	Q15054	POLD3	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:24449906		9606	ComplexPortal		P
+UniProtKB	Q15208	STK38	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:32537488		9606	UniProt		P
+UniProtKB	Q15208	STK38	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:32537488		9606	UniProt		P
+UniProtKB	Q15208	STK38	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32537488		9606	UniProt		P
+UniProtKB	Q15291	RBBP5	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17500065		9606	MGI		P
+UniProtKB	Q15554	TERF2	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000315	IMP	PMID:14690602		9606	BHF-UCL		P
+UniProtKB	Q15554	TERF2	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000315	IMP	PMID:17499040		9606	BHF-UCL		P
+UniProtKB	Q15554	TERF2	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000353	IPI	PMID:24095731	ComplexPortal:CPX-1993	9606	BHF-UCL		P
+UniProtKB	Q15819	UBE2V2	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000315	IMP	PMID:17349954		9606	HGNC-UCL		P
+UniProtKB	Q15831	STK11	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:25329316		9606	UniProt		P
+UniProtKB	Q16531	DDB1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:16949367		9606	UniProt		P
+UniProtKB	Q16531	DDB1	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:14751237		9606	ComplexPortal		P
+UniProtKB	Q16531	DDB1	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:22334663		9606	UniProt		P
+UniProtKB	Q16539	MAPK14	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000315	IMP	PMID:20160708		9606	BHF-UCL		P
+UniProtKB	Q16666	IFI16	acts_upstream_of_or_within	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:14654789		9606	MGI		P
+UniProtKB	Q17RS7	GEN1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23166748		9606	UniProt		P
+UniProtKB	Q19AV6	ZSWIM7	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21965664		9606	UniProt		P
+UniProtKB	Q1ZZU3	SWI5	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21252223		9606	UniProt		P
+UniProtKB	Q29983	MICA	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15995699		9606	UniProt		P
+UniProtKB	Q2TAK8	PWWP3A	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:20347427		9606	UniProt		P
+UniProtKB	Q2TB18	ASTE1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:34354233		9606	UniProt		P
+UniProtKB	Q2TB18	ASTE1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:34354233		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000315	IMP	PMID:22466610		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000315	IMP	PMID:22466611		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000315	IMP	PMID:22466612		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:32355176		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:34526721		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38316879		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38316879		9606	UniProt		P
+UniProtKB	Q2YD98	UVSSA	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:38600235		9606	UniProt		P
+UniProtKB	Q49AN0	CRY2	NOT|involved_in	GO:0000719	photoreactive repair	ECO:0000314	IDA	PMID:12627958		9606	UniProt		P
+UniProtKB	Q4FZB7	KMT5B	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:28114273		9606	UniProt		P
+UniProtKB	Q4VC44	FLYWCH1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:33924684		9606	UniProt		P
+UniProtKB	Q53GL7	PARP10	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:24695737		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:21491884		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:16332963		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:18263876		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:21187428		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:24573677		9606	UniProt		P
+UniProtKB	Q53HV7	SMUG1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:12161446		9606	HGNC-UCL		P
+UniProtKB	Q5D1E8	ZC3H12A	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:25861989		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:22759634		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:28621305		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22704558		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22705370		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22759634		9606	UniProt		P
+UniProtKB	Q5FWF4	ZRANB3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28621305		9606	UniProt		P
+UniProtKB	Q5H9I0	TFDP3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20559320		9606	UniProt		P
+UniProtKB	Q5MJ70	SPDYA	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:12839962		9606	UniProt		P
+UniProtKB	Q5QJU3	ACER2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26943039		9606	UniProt		P
+UniProtKB	Q5QJU3	ACER2	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:28294157		9606	UniProt		P
+UniProtKB	Q5QJU3	ACER2	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:29229990		9606	UniProt		P
+UniProtKB	Q5T890	ERCC6L2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37014751		9606	UniProt		P
+UniProtKB	Q5T890	ERCC6L2	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:24507776		9606	UniProt		P
+UniProtKB	Q5T890	ERCC6L2	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:32355287		9606	UniProt		P
+UniProtKB	Q5UIP0	RIF1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28241136		9606	UniProt		P
+UniProtKB	Q5UIP0	RIF1	involved_in	GO:0043247	telomere maintenance in response to DNA damage	ECO:0000314	IDA	PMID:15583028		9606	BHF-UCL		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19412162		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:24936062		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26124108		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26124108		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30171069		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30171069		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19412162		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:29279382		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0042770	signal transduction in response to DNA damage	ECO:0000314	IDA	PMID:24936062		9606	UniProt		P
+UniProtKB	Q68DK2	ZFYVE26	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:20613862		9606	UniProt		P
+UniProtKB	Q68E01	INTS3	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+UniProtKB	Q68E01	INTS3	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19605351		9606	UniProt		P
+UniProtKB	Q68E01	INTS3	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q68E01	INTS3	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q6B0I6	KDM4D	acts_upstream_of_or_within	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:24550317		9606	MGI		P
+UniProtKB	Q6IQ49	SDE2	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:27906959		9606	UniProt		P
+UniProtKB	Q6KC79	NIPBL	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17468178		9606	UniProt		P
+UniProtKB	Q6NS38	ALKBH2	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:18432238		9606	UniProt		P
+UniProtKB	Q6NS38	ALKBH2	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:20714506		9606	UniProt		P
+UniProtKB	Q6NTE8	MRNIP	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27568553		9606	UniProt		P
+UniProtKB	Q6NTE8	MRNIP	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:27568553		9606	UniProt		P
+UniProtKB	Q6NUQ1	RINT1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:11096100		9606	BHF-UCL		P
+UniProtKB	Q6NVH7	SWSAP1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21965664		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22266823		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22343915		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22396592		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22705371		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:22266823		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:22266823		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:22396592		9606	UniProt		P
+UniProtKB	Q6NZ36	FAAP20	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:22705371		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:26474068		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28575657		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28575658		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:28691929		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26474068		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28575657		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28575658		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:20173098		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:28575657		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:28575658		9606	UniProt		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:33321094		9606	UniProt		P
+UniProtKB	Q6PJG6	BRAT1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:25631046		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21055983		9606	UniProt		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21055984		9606	UniProt		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21055985		9606	UniProt		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27797818		9606	UniProt		P
+UniProtKB	Q6ZRQ5	MMS22L	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27797818		9606	UniProt		P
+UniProtKB	Q6ZW49	PAXIP1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:15456759		9606	UniProt		P
+UniProtKB	Q6ZW49	PAXIP1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:17690115		9606	UniProt		P
+UniProtKB	Q6ZWJ1	STXBP4	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19451233		9606	UniProt		P
+UniProtKB	Q6ZYL4	GTF2H5	acts_upstream_of_or_within	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:23637614		9606	MGI		P
+UniProtKB	Q70EK9	USP51	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27083998		9606	UniProt		P
+UniProtKB	Q70EK9	USP51	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:34188037		9606	UniProt		P
+UniProtKB	Q70EK9	USP51	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:27083998		9606	UniProt		P
+UniProtKB	Q70EL2	USP45	acts_upstream_of_or_within	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:25538220		9606	MGI		P
+UniProtKB	Q71UM5	RPS27L	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:18056458		9606	UniProt		P
+UniProtKB	Q71UM5	RPS27L	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:18056458		9606	UniProt		P
+UniProtKB	Q71UM5	RPS27L	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:17057733		9606	UniProt		P
+UniProtKB	Q71UM5	RPS27L	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:18056458		9606	UniProt		P
+UniProtKB	Q7L590	MCM10	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24726359		9606	UniProt		P
+UniProtKB	Q7L7L0	H2AC25	involved_in	GO:0070914	UV-damage excision repair	ECO:0000315	IMP	PMID:22334663		9606	UniProt		P
+UniProtKB	Q7L7X3	TAOK1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17396146		9606	UniProt		P
+UniProtKB	Q7L7X3	TAOK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17396146		9606	UniProt		P
+UniProtKB	Q7LG56	RRM2B	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:11719458		9606	ComplexPortal		P
+UniProtKB	Q7Z2E3	APTX	involved_in	GO:0000012	single strand break repair	ECO:0000315	IMP	PMID:15044383		9606	UniProt		P
+UniProtKB	Q7Z2E3	APTX	involved_in	GO:0000012	single strand break repair	ECO:0000314	IDA	PMID:17519253		9606	UniProt		P
+UniProtKB	Q7Z333	SETX	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:17562789		9606	UniProt		P
+UniProtKB	Q7Z333	SETX	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17562789		9606	UniProt		P
+UniProtKB	Q7Z3K3	POGZ	acts_upstream_of_or_within_positive_effect	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26721387		9606	UniProt		P
+UniProtKB	Q7Z4V5	HDGFL2	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:26721387		9606	GO_Central		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:19995904		9606	UniProt		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:19908865		9606	UniProt		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:20102227		9606	UniProt		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:19908865		9606	UniProt		P
+UniProtKB	Q7Z5Q5	POLN	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:19995904		9606	UniProt		P
+UniProtKB	Q7Z6E9	RBBP6	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24726359		9606	UniProt		P
+UniProtKB	Q7Z6Z7	HUWE1	involved_in	GO:0006284	base-excision repair	ECO:0000315	IMP	PMID:19713937		9606	UniProt		P
+UniProtKB	Q7Z7L1	SLFN11	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29395061		9606	UniProt		P
+UniProtKB	Q86U44	METTL3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28297716		9606	UniProt		P
+UniProtKB	Q86UE8	TLK2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:12660173		9606	UniProt		P
+UniProtKB	Q86WJ1	CHD1L	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19661379		9606	UniProt		P
+UniProtKB	Q86WJ1	CHD1L	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29220652		9606	UniProt		P
+UniProtKB	Q86WJ1	CHD1L	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29220653		9606	UniProt		P
+UniProtKB	Q86XK3	SFR1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21252223		9606	UniProt		P
+UniProtKB	Q86Y97	KMT5C	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:28114273		9606	UniProt		P
+UniProtKB	Q86YA3	ZGRF1	involved_in	GO:0000725	recombinational repair	ECO:0000314	IDA	PMID:32640219		9606	UniProt		P
+UniProtKB	Q86YA3	ZGRF1	involved_in	GO:0000725	recombinational repair	ECO:0000315	IMP	PMID:32640219		9606	UniProt		P
+UniProtKB	Q86YC2	PALB2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19369211		9606	UniProt		P
+UniProtKB	Q86YC2	PALB2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19423707		9606	UniProt		P
+UniProtKB	Q86YC2	PALB2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26323318		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q86YC2	PALB2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28398198		9606	ComplexPortal		P
+UniProtKB	Q86YI8	PHF13	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23034801		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	acts_upstream_of_or_within	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000316	IGI	PMID:21211721	UniProtKB:Q9Y6F1	9606	MGI		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0000012	single strand break repair	ECO:0000315	IMP	PMID:17396150		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:21211722		9606	UniProt	part_of(GO:0071168)	P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:30104678		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17396150		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:23689425		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17396150		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:21211722		9606	UniProt	part_of(GO:0006281),part_of(GO:0071168)	P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:21211722		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:21211722		9606	UniProt		P
+UniProtKB	Q8IW19	APLF	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:29905837		9606	UniProt		P
+UniProtKB	Q8IX21	SLF2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25931565		9606	UniProt		P
+UniProtKB	Q8IXQ6	PARP9	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:28525742		9606	UniProt		P
+UniProtKB	Q8IXQ6	PARP9	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:23230272		9606	UniProt		P
+UniProtKB	Q8IY18	SMC5	NOT|involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:16810316		9606	UniProt		P
+UniProtKB	Q8IY18	SMC5	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:16810316		9606	UniProt		P
+UniProtKB	Q8IY18	SMC5	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:11408570		9606	UniProt		P
+UniProtKB	Q8IY18	SMC5	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25931565		9606	UniProt		P
+UniProtKB	Q8IY92	SLX4	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:19595721		9606	UniProt		P
+UniProtKB	Q8IY92	SLX4	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:19596235		9606	UniProt		P
+UniProtKB	Q8IY92	SLX4	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19596236		9606	ComplexPortal		P
+UniProtKB	Q8IY92	SLX4	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19595722		9606	UniProt		P
+UniProtKB	Q8IY92	SLX4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:19596236		9606	UniProt		P
+UniProtKB	Q8IY92	SLX4	involved_in	GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	ECO:0000315	IMP	PMID:19595721		9606	UniProt		P
+UniProtKB	Q8IYD8	FANCM	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:20347429		9606	ComplexPortal		P
+UniProtKB	Q8IYE1	CCDC13	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24816561		9606	SYSCILIA_CCNET		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:19203578		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:19203579		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:22980979		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19500350		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19500350		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20550933		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22373579		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22508508		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22980979		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:19203578		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:19500350		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:22980979		9606	UniProt		P
+UniProtKB	Q8IYW5	RNF168	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:23760478		9606	UniProt		P
+UniProtKB	Q8N2Z9	CENPS	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:20347429		9606	UniProt		P
+UniProtKB	Q8N2Z9	CENPS	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:20347428		9606	UniProt		P
+UniProtKB	Q8N2Z9	CENPS	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20347429		9606	UniProt		P
+UniProtKB	Q8N2Z9	CENPS	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:20347429		9606	ComplexPortal		P
+UniProtKB	Q8N3C0	ASCC3	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:22055184		9606	UniProt		P
+UniProtKB	Q8N3J3	HROB	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000315	IMP	PMID:31467087		9606	UniProt		P
+UniProtKB	Q8N3J3	HROB	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:31467087		9606	UniProt		P
+UniProtKB	Q8N3J3	HROB	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:31467087		9606	UniProt		P
+UniProtKB	Q8N668	COMMD1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:23144634		9606	CACAO		P
+UniProtKB	Q8N6T7	SIRT6	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:21680843		9606	UniProt		P
+UniProtKB	Q8N6T7	SIRT6	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:27568560		9606	UniProt		P
+UniProtKB	Q8N6T7	SIRT6	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:27568560		9606	UniProt		P
+UniProtKB	Q8N884	CGAS	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28738408		9606	UniProt		P
+UniProtKB	Q8NAG6	ANKLE1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22399800		9606	UniProt		P
+UniProtKB	Q8NAP3	ZBTB38	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24726359		9606	UniProt		P
+UniProtKB	Q8NCN4	RNF169	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:22492721		9606	UniProt		P
+UniProtKB	Q8NCN4	RNF169	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:22492721		9606	UniProt		P
+UniProtKB	Q8NCN4	RNF169	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22733822		9606	UniProt		P
+UniProtKB	Q8NFC6	BOD1L1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26166705		9606	UniProt		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:23319600		9606	UniProt		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19736316		9606	UniProt		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23361013		9606	UniProt		P
+UniProtKB	Q8NFZ0	FBH1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25585578		9606	UniProt		P
+UniProtKB	Q8NG08	HELB	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26774285		9606	UniProt		P
+UniProtKB	Q8NG66	NEK11	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:15161910		9606	UniProt		P
+UniProtKB	Q8TAF3	WDR48	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27239033		9606	UniProt		P
+UniProtKB	Q8TAF3	WDR48	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27463890		9606	UniProt		P
+UniProtKB	Q8TAT5	NEIL3	involved_in	GO:0000012	single strand break repair	ECO:0000314	IDA	PMID:19170771		9606	ARUK-UCL		P
+UniProtKB	Q8TAT5	NEIL3	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:23755964		9606	HGNC		P
+UniProtKB	Q8TCG1	CIP2A	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:35842428		9606	UniProt		P
+UniProtKB	Q8TCG1	CIP2A	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37165191		9606	UniProt		P
+UniProtKB	Q8TCG1	CIP2A	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37316668		9606	UniProt		P
+UniProtKB	Q8TCG1	CIP2A	involved_in	GO:0141112	broken chromosome clustering	ECO:0000314	IDA	PMID:37165191		9606	UniProt		P
+UniProtKB	Q8TCG1	CIP2A	involved_in	GO:0141112	broken chromosome clustering	ECO:0000314	IDA	PMID:37316668		9606	UniProt		P
+UniProtKB	Q8TD08	MAPK15	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19166846		9606	UniProt		P
+UniProtKB	Q8TDB6	DTX3L	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:28525742		9606	UniProt		P
+UniProtKB	Q8TDB6	DTX3L	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:23230272		9606	UniProt		P
+UniProtKB	Q8TDB6	DTX3L	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:19818714		9606	UniProt		P
+UniProtKB	Q8TDC3	BRSK1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15150265		9606	UniProt		P
+UniProtKB	Q8TDC3	BRSK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:15150265		9606	UniProt		P
+UniProtKB	Q8TDG4	HELQ	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:19995904		9606	UniProt		P
+UniProtKB	Q8TDG4	HELQ	involved_in	GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	ECO:0000314	IDA	PMID:34937945		9606	UniProt		P
+UniProtKB	Q8TDG4	HELQ	involved_in	GO:0045003	double-strand break repair via synthesis-dependent strand annealing	ECO:0000314	IDA	PMID:34937945		9606	UniProt		P
+UniProtKB	Q8TDG4	HELQ	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:34937945		9606	UniProt		P
+UniProtKB	Q8WTP8	AEN	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:18264133		9606	UniProt		P
+UniProtKB	Q8WTS6	SETD7	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23509280		9606	MGI		P
+UniProtKB	Q8WV22	NSMCE1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:18086888		9606	UniProt		P
+UniProtKB	Q8WVD3	RNF138	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26502055		9606	UniProt		P
+UniProtKB	Q8WVD3	RNF138	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26502057		9606	UniProt		P
+UniProtKB	Q8WVD3	RNF138	involved_in	GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	ECO:0000315	IMP	PMID:26502057		9606	UniProt		P
+UniProtKB	Q8WYQ5	DGCR8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:34188037		9606	UniProt		P
+UniProtKB	Q92466	DDB2	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:19109893		9606	UniProt		P
+UniProtKB	Q92466	DDB2	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:14751237		9606	ComplexPortal		P
+UniProtKB	Q92466	DDB2	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:22334663		9606	UniProt		P
+UniProtKB	Q92499	DDX1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:18710941		9606	UniProt		P
+UniProtKB	Q92537	SUSD6	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:24652652		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:17575048		9606	UniProt	has_input(UniProtKB:Q99638)	P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:21777809		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:31135337		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:31135337		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:26811421		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:26811421		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:35597237		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:12773567		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30898438		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:35842428		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37165191		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37316668		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:31135337		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:31135337		9606	UniProt	part_of(GO:0000077)	P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37674080		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37674080		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0141112	broken chromosome clustering	ECO:0000314	IDA	PMID:37165191		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0141112	broken chromosome clustering	ECO:0000314	IDA	PMID:37316668		9606	UniProt		P
+UniProtKB	Q92597	NDRG1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000270	IEP	PMID:9766676		9606	UniProt		P
+UniProtKB	Q92630	DYRK2	involved_in	GO:0006974	DNA damage response	ECO:0000270	IEP	PMID:19965871		9606	UniProt		P
+UniProtKB	Q92630	DYRK2	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:17349958		9606	UniProt		P
+UniProtKB	Q92698	RAD54L	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:12205100		9606	UniProt		P
+UniProtKB	Q92698	RAD54L	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:32457312		9606	UniProt		P
+UniProtKB	Q92844	TANK	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:25861989		9606	UniProt		P
+UniProtKB	Q92878	RAD50	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17500065		9606	MGI		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27889449		9606	UniProt		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27889449		9606	UniProt		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28867292		9606	UniProt		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:16622404		9606	UniProt		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:21757780		9606	UniProt		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:9705271		9606	UniProt		P
+UniProtKB	Q92878	RAD50	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:9590181		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	acts_upstream_of_or_within	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:10644440		9606	MGI		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:14728600		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006281	DNA repair	ECO:0000316	IGI	PMID:17055345	UniProtKB:Q15554	9606	BHF-UCL		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19596235		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:10413517		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:11790111		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:14728600		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:22547097		9606	ComplexPortal		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:32034146		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:8797827		9606	UniProt		P
+UniProtKB	Q92889	ERCC4	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:14690602		9606	BHF-UCL	occurs_in(GO:0000781)	P
+UniProtKB	Q92889	ERCC4	involved_in	GO:1901255	nucleotide-excision repair involved in interstrand cross-link repair	ECO:0000314	IDA	PMID:32034146		9606	UniProt		P
+UniProtKB	Q92900	UPF1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:16488880		9606	HGNC-UCL		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:32034146		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:26438602		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:33076429		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:33076429		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:14966270		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:10966108		9606	UniProt		P
+UniProtKB	Q92993	KAT5	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:25301942		9606	UniProt		P
+UniProtKB	Q93008	USP9X	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:25944111		9606	UniProt		P
+UniProtKB	Q93009	USP7	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000315	IMP	PMID:22466612		9606	UniProt		P
+UniProtKB	Q93009	USP7	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:25944111		9606	UniProt		P
+UniProtKB	Q969H0-1	FBXW7	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17873522		9606	UniProt		P
+UniProtKB	Q96AH0	NABP1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:19605351		9606	UniProt		P
+UniProtKB	Q96AH0	NABP1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+UniProtKB	Q96AH0	NABP1	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q96AH0	NABP1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q96AV8	E2F7	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:22802528		9606	UniProt		P
+UniProtKB	Q96AY2	EME1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:18413719		9606	ComplexPortal		P
+UniProtKB	Q96B01	RAD51AP1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26323318		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q96B01	RAD51AP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17996710		9606	UniProt		P
+UniProtKB	Q96B01	RAD51AP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17996711		9606	UniProt		P
+UniProtKB	Q96B01	RAD51AP1	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:26323318		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q96BT7	ALKBH8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20308323		9606	UniProt		P
+UniProtKB	Q96BY2	MOAP1	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000315	IMP	PMID:16199525		9606	BHF-UCL		P
+UniProtKB	Q96E14	RMI2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:23543748		9606	ComplexPortal		P
+UniProtKB	Q96EB6	SIRT1	involved_in	GO:0000012	single strand break repair	ECO:0000315	IMP	PMID:20097625		9606	UniProt		P
+UniProtKB	Q96EB6	SIRT1	involved_in	GO:0000720	pyrimidine dimer repair by nucleotide-excision repair	ECO:0000315	IMP	PMID:21149730		9606	UniProt		P
+UniProtKB	Q96EB6	SIRT1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:18203716		9606	UniProt		P
+UniProtKB	Q96EB6	SIRT1	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000315	IMP	PMID:20100829		9606	UniProt		P
+UniProtKB	Q96EB6	SIRT1	involved_in	GO:0070914	UV-damage excision repair	ECO:0000315	IMP	PMID:20670893		9606	CACAO		P
+UniProtKB	Q96EB6	SIRT1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:20100829		9606	UniProt		P
+UniProtKB	Q96FC9	DDX11	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:23797032		9606	UniProt		P
+UniProtKB	Q96FF9	CDCA5	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17349791		9606	UniProt		P
+UniProtKB	Q96FI4	NEIL1	involved_in	GO:0006284	base-excision repair	ECO:0000314	IDA	PMID:17611195		9606	UniProt		P
+UniProtKB	Q96FW1	OTUB1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20725033		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30554877		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:31235913		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32492421		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:36608669		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37519246		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37950866		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:33321094		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:36608669		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:37519246		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:37519246		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:37950866		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:37950866		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:37519246		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:37519246		9606	UniProt	part_of(GO:0036297)	P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:37950866		9606	UniProt		P
+UniProtKB	Q96FZ2	HMCES	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:37950866		9606	UniProt	part_of(GO:0036297)	P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21055983		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21055984		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:21055985		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27338793		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27338793		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27797818		9606	UniProt		P
+UniProtKB	Q96HA7	TONSL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:30773278		9606	UniProt		P
+UniProtKB	Q96JB5	CDK5RAP3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15790566		9606	UniProt		P
+UniProtKB	Q96JH7	VCPIP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32649882		9606	UniProt		P
+UniProtKB	Q96JH7	VCPIP1	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:32649882		9606	UniProt		P
+UniProtKB	Q96JN8	NEURL4	acts_upstream_of_or_within	GO:0043504	mitochondrial DNA repair	ECO:0000315	IMP	PMID:35157000		9606	MGI		P
+UniProtKB	Q96K58	ZNF668	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:34313816		9606	UniProt		P
+UniProtKB	Q96K76	USP47	involved_in	GO:0006284	base-excision repair	ECO:0000315	IMP	PMID:21362556		9606	UniProt		P
+UniProtKB	Q96K76	USP47	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:21362556		9606	UniProt		P
+UniProtKB	Q96LR5	UBE2E2	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:21628527		9606	MGI		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:24240614		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:24267451		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:24682820		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:25746449		9606	UniProt		P
+UniProtKB	Q96LW4	PRIMPOL	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:28534480		9606	UniProt		P
+UniProtKB	Q96MF7	NSMCE2	NOT|involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:16810316		9606	UniProt		P
+UniProtKB	Q96MF7	NSMCE2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:16810316		9606	UniProt		P
+UniProtKB	Q96MG7	NSMCE3	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:27427983		9606	UniProt		P
+UniProtKB	Q96NY9	MUS81	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19596235		9606	UniProt		P
+UniProtKB	Q96NY9	MUS81	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:17289582		9606	ComplexPortal		P
+UniProtKB	Q96NY9	MUS81	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:18413719		9606	ComplexPortal		P
+UniProtKB	Q96NZ9	PRAP1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23235459		9606	UniProt		P
+UniProtKB	Q96NZ9	PRAP1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:23235459		9606	UniProt		P
+UniProtKB	Q96PZ2	FAM111A	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32165630		9606	UniProt		P
+UniProtKB	Q96PZ2	FAM111A	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:32165630		9606	UniProt		P
+UniProtKB	Q96Q15	SMG1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15175154		9606	UniProt		P
+UniProtKB	Q96Q83	ALKBH3	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:20714506		9606	UniProt		P
+UniProtKB	Q96Q83	ALKBH3	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:22055184		9606	UniProt		P
+UniProtKB	Q96QF7	GCNA	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000315	IMP	PMID:30914427		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17525341		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17525342		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525341		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525342		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:19202061		9606	UniProt		P
+UniProtKB	Q96RU2	USP28	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:18662541		9606	UniProt		P
+UniProtKB	Q96RU2	USP28	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17873522		9606	UniProt		P
+UniProtKB	Q96RU2	USP28	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:16901786		9606	UniProt		P
+UniProtKB	Q96S55	WRNIP1	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000314	IDA	PMID:15670210		9606	UniProt		P
+UniProtKB	Q96SB8	SMC6	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:11408570		9606	UniProt		P
+UniProtKB	Q96SB8	SMC6	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25931565		9606	UniProt		P
+UniProtKB	Q96T60	PNKP	involved_in	GO:0006281	DNA repair	ECO:0000316	IGI	PMID:10446192	UniProtKB:J7Q8E6,UniProtKB:J7QRV0	9606	UniProt		P
+UniProtKB	Q96T60	PNKP	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:15385968		9606	UniProt		P
+UniProtKB	Q96T60	PNKP	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:28453785		9606	UniProt		P
+UniProtKB	Q99459	CDC5L	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:24332808		9606	UniProt		P
+UniProtKB	Q99497	PARK7	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:28596309		9606	UniProt		P
+UniProtKB	Q99502	EYA1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19234442		9606	UniProt		P
+UniProtKB	Q99504	EYA3	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19234442		9606	UniProt		P
+UniProtKB	Q99638	RAD9A	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21659603		9606	UniProt		P
+UniProtKB	Q99638	RAD9A	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:9872989		9606	UniProt		P
+UniProtKB	Q99684	GFI1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29651020		9606	UniProt		P
+UniProtKB	Q99684	GFI1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29651020		9606	UniProt	has_input(UniProtKB:Q99873),has_input(UniProtKB:Q12888)	P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26721387		9606	UniProt		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27814491		9606	UniProt		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27889449		9606	UniProt		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:30787182		9606	UniProt		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:31802118		9606	UniProt		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	ECO:0000315	IMP	PMID:18716619		9606	UniProt		P
+UniProtKB	Q99708	RBBP8	involved_in	GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	ECO:0000315	IMP	PMID:19202191		9606	UniProt		P
+UniProtKB	Q99743	NPAS2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:18819933		9606	UniProt		P
+UniProtKB	Q99801	NKX3-1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20395202		9606	UniProt		P
+UniProtKB	Q99828	CIB1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:12011095		9606	HGNC-UCL		P
+UniProtKB	Q99873	PRMT1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15741314		9606	UniProt		P
+UniProtKB	Q99873	PRMT1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:16294045		9606	UniProt		P
+UniProtKB	Q99986	VRK1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:33076429		9606	UniProt		P
+UniProtKB	Q9BQ15	NABP2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:19605351		9606	UniProt		P
+UniProtKB	Q9BQ15	NABP2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+UniProtKB	Q9BQ15	NABP2	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:18449195		9606	UniProt		P
+UniProtKB	Q9BQ15	NABP2	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q9BQ15	NABP2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:18449195		9606	UniProt		P
+UniProtKB	Q9BQ15	NABP2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q9BQ69	MACROD1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:23474712		9606	UniProt		P
+UniProtKB	Q9BQ83	SLX1A	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:19595721		9606	UniProt		P
+UniProtKB	Q9BQ83	SLX1A	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19596236		9606	ComplexPortal		P
+UniProtKB	Q9BQ83	SLX1A	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19595721		9606	UniProt		P
+UniProtKB	Q9BQ83	SLX1A	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19595722		9606	UniProt		P
+UniProtKB	Q9BQ83	SLX1A	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19596235		9606	UniProt		P
+UniProtKB	Q9BQ83	SLX1A	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19596236		9606	UniProt		P
+UniProtKB	Q9BQ83	SLX1A	involved_in	GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	ECO:0000315	IMP	PMID:19595721		9606	UniProt		P
+UniProtKB	Q9BQA5	HINFP	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17974976		9606	UniProt		P
+UniProtKB	Q9BQA5	HINFP	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:17974976		9606	UniProt		P
+UniProtKB	Q9BQI6	SLF1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25931565		9606	UniProt		P
+UniProtKB	Q9BRQ6	CHCHD6	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22228767		9606	UniProt		P
+UniProtKB	Q9BSD3	RHNO1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21659603		9606	UniProt		P
+UniProtKB	Q9BSD3	RHNO1	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:25602520		9606	UniProt		P
+UniProtKB	Q9BSD3	RHNO1	involved_in	GO:0000725	recombinational repair	ECO:0000315	IMP	PMID:21659603		9606	UniProt		P
+UniProtKB	Q9BSD3	RHNO1	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37440612		9606	UniProt		P
+UniProtKB	Q9BSD3	RHNO1	involved_in	GO:0097681	double-strand break repair via alternative nonhomologous end joining	ECO:0000314	IDA	PMID:37440612		9606	UniProt		P
+UniProtKB	Q9BT30	ALKBH7	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23666923		9606	UniProt		P
+UniProtKB	Q9BTA9	WAC	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:21329877		9606	UniProt		P
+UniProtKB	Q9BTA9	WAC	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21329877		9606	UniProt		P
+UniProtKB	Q9BTE7	DCUN1D5	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:23098533		9606	UniProt		P
+UniProtKB	Q9BTE7	DCUN1D5	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:26906416		9606	UniProt		P
+UniProtKB	Q9BTP7	FAAP24	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:20347429		9606	ComplexPortal		P
+UniProtKB	Q9BUA3	SPINDOC	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:34737271		9606	UniProt		P
+UniProtKB	Q9BUA3	SPINDOC	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:34737271		9606	UniProt		P
+UniProtKB	Q9BUH6	PAXX	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:25574025		9606	UniProt		P
+UniProtKB	Q9BUH6	PAXX	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:25670504		9606	UniProt		P
+UniProtKB	Q9BUH6	PAXX	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:25941166		9606	UniProt		P
+UniProtKB	Q9BUH6	PAXX	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:30250067		9606	UniProt		P
+UniProtKB	Q9BUH6	PAXX	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25574025		9606	UniProt		P
+UniProtKB	Q9BVW5	TIPIN	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:17102137		9606	ComplexPortal		P
+UniProtKB	Q9BVW5	TIPIN	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17102137		9606	HGNC-UCL		P
+UniProtKB	Q9BWF2	TRAIP	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26711499		9606	UniProt		P
+UniProtKB	Q9BWF2	TRAIP	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27462463		9606	UniProt		P
+UniProtKB	Q9BWK5	CYREN	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:24610814		9606	UniProt		P
+UniProtKB	Q9BX46	RBM24	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24356969		9606	UniProt		P
+UniProtKB	Q9BX63	BRIP1	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:36608669		9606	UniProt		P
+UniProtKB	Q9BX63	BRIP1	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:36608669		9606	UniProt		P
+UniProtKB	Q9BYB4	GNB1L	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:37541219		9606	UniProt		P
+UniProtKB	Q9BYB4	GNB1L	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:37541219		9606	UniProt		P
+UniProtKB	Q9BYW2	SETD2	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:23622243		9606	UniProt		P
+UniProtKB	Q9C0B1	FTO	involved_in	GO:0006307	DNA alkylation repair	ECO:0000314	IDA	PMID:18775698		9606	BHF-UCL		P
+UniProtKB	Q9C0C2	TNKS1BP1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:25749521		9606	BHF-UCL		P
+UniProtKB	Q9GZR2	REXO4	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:21602889		9606	ARUK-UCL		P
+UniProtKB	Q9GZT1	PCBP4	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:10891498		9606	UniProt		P
+UniProtKB	Q9GZT1	PCBP4	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:10891498		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22681887		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22894931		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22902628		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23042605		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23042607		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27852435		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27871365		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27871366		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:32649882		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:36608669		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:22681887		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:22902628		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:23042605		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:23042607		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:36608669		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:27852435		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:27871365		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:27871366		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:32152270		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:32649882		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:36608669		9606	UniProt		P
+UniProtKB	Q9H040	SPRTN	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:36608669		9606	UniProt	part_of(GO:0036297)	P
+UniProtKB	Q9H0W9	C11orf54	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:37277441		9606	UniProt		P
+UniProtKB	Q9H1E3	NUCKS1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:26323318		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q9H1E3	NUCKS1	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:26323318		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q9H2F5	EPC1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q9H2F5	EPC1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:27153538		9606	UniProt		P
+UniProtKB	Q9H2K8	TAOK3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17396146		9606	UniProt		P
+UniProtKB	Q9H2K8	TAOK3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17396146		9606	UniProt		P
+UniProtKB	Q9H2X6	HIPK2	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:14647468		9606	BHF-UCL		P
+UniProtKB	Q9H305	CDIP1	acts_upstream_of_or_within	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000315	IMP	PMID:17599062		9606	MGI		P
+UniProtKB	Q9H334	FOXP1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:30111844		9606	ARUK-UCL		P
+UniProtKB	Q9H4B4	PLK3	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:16481012		9606	UniProt		P
+UniProtKB	Q9H4B4	PLK3	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19490146		9606	UniProt		P
+UniProtKB	Q9H4L7	SMARCAD1	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000315	IMP	PMID:22960744		9606	UniProt		P
+UniProtKB	Q9H790	EXO5	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:23095756		9606	UniProt		P
+UniProtKB	Q9H7T9	AUNIP	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:29042561		9606	UniProt		P
+UniProtKB	Q9H7Z3	NRDE2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:29902117		9606	UniProt		P
+UniProtKB	Q9H816	DCLRE1B	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000315	IMP	PMID:16730175		9606	UniProt		P
+UniProtKB	Q9H816	DCLRE1B	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000315	IMP	PMID:20479256		9606	BHF-UCL		P
+UniProtKB	Q9H816	DCLRE1B	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:20479256		9606	BHF-UCL		P
+UniProtKB	Q9H8M2	BRD9	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:32457312		9606	UniProt		P
+UniProtKB	Q9H967	WDR76	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27248496		9606	UniProt		P
+UniProtKB	Q9H993	ARMT1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:25732820		9606	UniProt		P
+UniProtKB	Q9H9A7	RMI1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:23543748		9606	ComplexPortal		P
+UniProtKB	Q9H9F9	ACTR5	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19014934		9606	UniProt		P
+UniProtKB	Q9H9F9	ACTR5	involved_in	GO:0070914	UV-damage excision repair	ECO:0000315	IMP	PMID:20855601		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:16439204		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:16439205		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:17717001		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:18158905		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:18644470		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:19056826		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:20558749		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:27437582		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:28500754		9606	UniProt		P
+UniProtKB	Q9H9Q4	NHEJ1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:30250067		9606	UniProt		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:16963448		9606	UniProt		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	Q9HB75	PIDD1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:21726810		9606	UniProt		P
+UniProtKB	Q9HB75	PIDD1	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:21726810		9606	UniProt		P
+UniProtKB	Q9HCI7	MSL2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19033443		9606	UniProt		P
+UniProtKB	Q9HCI7	MSL2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23874665		9606	UniProt		P
+UniProtKB	Q9HCM9	TRIM39	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:23213251		9606	UniProt		P
+UniProtKB	Q9HCS7	XAB2	involved_in	GO:0006283	transcription-coupled nucleotide-excision repair	ECO:0000314	IDA	PMID:10944529		9606	UniProt		P
+UniProtKB	Q9NPD8	UBE2T	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:16916645		9606	UniProt		P
+UniProtKB	Q9NPD8	UBE2T	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:16916645		9606	UniProt		P
+UniProtKB	Q9NQ88	TIGAR	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25928429		9606	UniProt		P
+UniProtKB	Q9NRC8	SIRT7	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30944854		9606	UniProt		P
+UniProtKB	Q9NRC8	SIRT7	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:27436229		9606	UniProt		P
+UniProtKB	Q9NRR5	UBQLN4	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30612738		9606	UniProt		P
+UniProtKB	Q9NRY2	INIP	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+UniProtKB	Q9NRY2	INIP	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:19605351		9606	UniProt		P
+UniProtKB	Q9NRY2	INIP	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q9NRZ9	HELLS	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:31802118		9606	UniProt	has_input(UniProtKB:Q99708)	P
+UniProtKB	Q9NS56	TOPORS	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:15735665		9606	UniProt		P
+UniProtKB	Q9NS56	TOPORS	involved_in	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	ECO:0000314	IDA	PMID:20188669		9606	UniProt		P
+UniProtKB	Q9NS91	RAD18	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25023518		9606	MGI		P
+UniProtKB	Q9NS91	RAD18	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22036607		9606	UniProt		P
+UniProtKB	Q9NS91	RAD18	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25931565		9606	UniProt		P
+UniProtKB	Q9NSG2	FIRRM	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000315	IMP	PMID:37256941		9606	UniProt		P
+UniProtKB	Q9NUA8	ZBTB40	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17525332		9606	UniProt		P
+UniProtKB	Q9NUS5	AP5S1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:20613862		9606	UniProt		P
+UniProtKB	Q9NUW8	TDP1	involved_in	GO:0000012	single strand break repair	ECO:0000314	IDA	PMID:15811850		9606	UniProt		P
+UniProtKB	Q9NUW8	TDP1	involved_in	GO:0000012	single strand break repair	ECO:0000315	IMP	PMID:17600775		9606	UniProt		P
+UniProtKB	Q9NUW8	TDP1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:17948061		9606	UniProt		P
+UniProtKB	Q9NUW8	TDP1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:12023295		9606	UniProt		P
+UniProtKB	Q9NVH0	EXD2	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:26807646		9606	UniProt		P
+UniProtKB	Q9NVH0	EXD2	involved_in	GO:0000729	DNA double-strand break processing	ECO:0000314	IDA	PMID:26807646		9606	UniProt		P
+UniProtKB	Q9NVH0	EXD2	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:26807646		9606	UniProt		P
+UniProtKB	Q9NVH2	INTS7	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21659603		9606	UniProt		P
+UniProtKB	Q9NVI7	ATAD3A	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:37832546		9606	UniProt		P
+UniProtKB	Q9NW38	FANCL	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:16916645		9606	UniProt		P
+UniProtKB	Q9NW38	FANCL	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:16916645		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261749		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261749		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	Q9NWY4	HPF1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:32028527		9606	UniProt		P
+UniProtKB	Q9NWY4	HPF1	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:34108479		9606	UniProt		P
+UniProtKB	Q9NWY4	HPF1	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:32028527		9606	UniProt		P
+UniProtKB	Q9NWY4	HPF1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27067600		9606	UniProt		P
+UniProtKB	Q9NWY4	HPF1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:29480802		9606	UniProt		P
+UniProtKB	Q9NWY4	HPF1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:32939087		9606	UniProt		P
+UniProtKB	Q9NWY4	HPF1	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:32939087		9606	UniProt		P
+UniProtKB	Q9NX46	ADPRS	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:30045870		9606	UniProt		P
+UniProtKB	Q9NXL9	MCM9	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:22771115		9606	UniProt		P
+UniProtKB	Q9NXL9	MCM9	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23401855		9606	UniProt		P
+UniProtKB	Q9NXL9	MCM9	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22771115		9606	UniProt		P
+UniProtKB	Q9NXL9	MCM9	involved_in	GO:0036298	recombinational interstrand cross-link repair	ECO:0000315	IMP	PMID:23401855		9606	UniProt		P
+UniProtKB	Q9NXL9	MCM9	involved_in	GO:0070716	mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication	ECO:0000315	IMP	PMID:26300262		9606	UniProt		P
+UniProtKB	Q9NXR7	BABAM2	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q9NXR7	BABAM2	involved_in	GO:0006974	DNA damage response	ECO:0000270	IEP	PMID:7826398		9606	UniProt		P
+UniProtKB	Q9NXR7	BABAM2	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q9NXV6	CDKN2AIP	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:24825908		9606	UniProt		P
+UniProtKB	Q9NXX6	NSMCE4A	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:18086888		9606	UniProt		P
+UniProtKB	Q9NY74	ETAA1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27723717		9606	UniProt		P
+UniProtKB	Q9NY74	ETAA1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:27723720		9606	UniProt		P
+UniProtKB	Q9NYB0	TERF2IP	involved_in	GO:0031848	protection from non-homologous end joining at telomere	ECO:0000315	IMP	PMID:17499040		9606	BHF-UCL		P
+UniProtKB	Q9NYF8	BCLAF1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17938203		9606	UniProt	has_input(UniProtKB:P04637)	P
+UniProtKB	Q9NYL2	MAP3K20	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:11836244		9606	UniProt		P
+UniProtKB	Q9NYP3	DONSON	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:28191891		9606	UniProt		P
+UniProtKB	Q9NYP3	DONSON	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:28191891		9606	UniProt		P
+UniProtKB	Q9NZ56	FMN2	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:23375502		9606	UniProt		P
+UniProtKB	Q9NZ56	FMN2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:26287480		9606	UniProt		P
+UniProtKB	Q9NZC9	SMARCAL1	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:26089390		9606	CACAO		P
+UniProtKB	Q9NZC9	SMARCAL1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:19793862		9606	UniProt		P
+UniProtKB	Q9NZJ0	DTL	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:16949367		9606	UniProt		P
+UniProtKB	Q9NZJ0	DTL	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20129063		9606	UniProt		P
+UniProtKB	Q9NZJ0	DTL	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17085480		9606	UniProt		P
+UniProtKB	Q9NZJ0	DTL	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:20129063		9606	UniProt		P
+UniProtKB	Q9NZM5	NOP53	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:21741933		9606	UniProt		P
+UniProtKB	Q9NZM5	NOP53	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:27829214		9606	UniProt		P
+UniProtKB	Q9NZM5	NOP53	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21741933		9606	UniProt		P
+UniProtKB	Q9P1Z0	ZBTB4	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19448668		9606	UniProt		P
+UniProtKB	Q9P2Y5	UVRAG	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:22542840		9606	UniProt		P
+UniProtKB	Q9P2Y5	UVRAG	involved_in	GO:0097680	double-strand break repair via classical nonhomologous end joining	ECO:0000314	IDA	PMID:22542840		9606	UniProt		P
+UniProtKB	Q9UBL3	ASH2L	acts_upstream_of_or_within	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17500065		9606	MGI		P
+UniProtKB	Q9UBT6	POLK	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:28297716		9606	UniProt		P
+UniProtKB	Q9UBT6	POLK	involved_in	GO:0006297	nucleotide-excision repair, DNA gap filling	ECO:0000315	IMP	PMID:20227374		9606	UniProt		P
+UniProtKB	Q9UBT6	POLK	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28297716		9606	UniProt		P
+UniProtKB	Q9UBT6	POLK	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:28297716		9606	UniProt		P
+UniProtKB	Q9UBT6	POLK	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:28297716		9606	UniProt		P
+UniProtKB	Q9UBU8	MORF4L1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:20332121		9606	UniProt		P
+UniProtKB	Q9UBZ9	REV1	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:10536157		9606	UniProt		P
+UniProtKB	Q9UBZ9	REV1	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:10536157		9606	UniProt		P
+UniProtKB	Q9UBZ9	REV1	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:23143872		9606	UniProt		P
+UniProtKB	Q9UGN5	PARP2	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:30104678		9606	UniProt		P
+UniProtKB	Q9UGN5	PARP2	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:34108479		9606	UniProt		P
+UniProtKB	Q9UGN5	PARP2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:34108479		9606	UniProt	part_of(GO:0006281)	P
+UniProtKB	Q9UGN5	PARP2	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:32939087		9606	UniProt		P
+UniProtKB	Q9UGP5	POLL	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:20693240		9606	UniProt		P
+UniProtKB	Q9UGP5	POLL	involved_in	GO:0006287	base-excision repair, gap-filling	ECO:0000314	IDA	PMID:19806195		9606	UniProt		P
+UniProtKB	Q9UGP5	POLL	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:10982892		9606	UniProt		P
+UniProtKB	Q9UGP5	POLL	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:19806195		9606	UniProt		P
+UniProtKB	Q9UGP5	POLL	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:30250067		9606	UniProt		P
+UniProtKB	Q9UI95	MAD2L2	involved_in	GO:0006302	double-strand break repair	ECO:0000316	IGI	PMID:15988022		9606	UniProt		P
+UniProtKB	Q9UI95	MAD2L2	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:20164194		9606	UniProt		P
+UniProtKB	Q9UI95	MAD2L2	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:24449906		9606	ComplexPortal		P
+UniProtKB	Q9UI95	MAD2L2	involved_in	GO:0042772	DNA damage response, signal transduction resulting in transcription	ECO:0000314	IDA	PMID:17296730		9606	UniProt		P
+UniProtKB	Q9UIG0	BAZ1B	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:19092802		9606	UniProt		P
+UniProtKB	Q9UJA3	MCM8	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:23401855		9606	UniProt		P
+UniProtKB	Q9UJA3	MCM8	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:22771115		9606	UniProt		P
+UniProtKB	Q9UJA3	MCM8	involved_in	GO:0036298	recombinational interstrand cross-link repair	ECO:0000315	IMP	PMID:23401855		9606	UniProt		P
+UniProtKB	Q9UK32	RPS6KA6	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000315	IMP	PMID:15042092		9606	UniProt		P
+UniProtKB	Q9UKT4	FBXO5	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875940		9606	UniProt		P
+UniProtKB	Q9UKW4	VAV3	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:17875758		9606	UniProt		P
+UniProtKB	Q9UL54	TAOK2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:17396146		9606	UniProt		P
+UniProtKB	Q9UL54	TAOK2	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17396146		9606	UniProt		P
+UniProtKB	Q9ULG1	INO80	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:18026119		9606	UniProt		P
+UniProtKB	Q9ULG1	INO80	involved_in	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:20687897		9606	UniProt		P
+UniProtKB	Q9ULG1	INO80	involved_in	GO:0070914	UV-damage excision repair	ECO:0000315	IMP	PMID:20855601		9606	UniProt		P
+UniProtKB	Q9ULU4	ZMYND8	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:25593309		9606	UniProt		P
+UniProtKB	Q9ULZ3	PYCARD	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000315	IMP	PMID:14730312		9606	UniProt		P
+UniProtKB	Q9UM11	FZR1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	Q9UM54	MYO6	involved_in	GO:0030330	DNA damage response, signal transduction by p53 class mediator	ECO:0000314	IDA	PMID:16507995		9606	UniProt		P
+UniProtKB	Q9UMS4	PRPF19	involved_in	GO:0000077	DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:24332808		9606	UniProt		P
+UniProtKB	Q9UMS4	PRPF19	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:18263876		9606	UniProt		P
+UniProtKB	Q9UNA4	POLI	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:20388628		9606	UniProt		P
+UniProtKB	Q9UNS1	TIMELESS	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:23797032		9606	UniProt		P
+UniProtKB	Q9UNS1	TIMELESS	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:17102137		9606	ComplexPortal		P
+UniProtKB	Q9UQ84	EXO1	involved_in	GO:0006298	mismatch repair	ECO:0000315	IMP	PMID:11809771		9606	UniProt		P
+UniProtKB	Q9UQ84	EXO1	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:14636568		9606	UniProt		P
+UniProtKB	Q9UQ84	EXO1	involved_in	GO:0006298	mismatch repair	ECO:0000353	IPI	PMID:9788596	UniProtKB:P43246	9606	UniProt		P
+UniProtKB	Q9Y253	POLH	involved_in	GO:0000731	DNA synthesis involved in DNA repair	ECO:0000314	IDA	PMID:17563354		9606	UniProt		P
+UniProtKB	Q9Y253	POLH	involved_in	GO:0019985	translesion synthesis	ECO:0000314	IDA	PMID:20388628		9606	UniProt		P
+UniProtKB	Q9Y294	ASF1A	acts_upstream_of_or_within	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:11897662		9606	MGI		P
+UniProtKB	Q9Y294	ASF1A	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:29478807		9606	UniProt	part_of(GO:0031297)	P
+UniProtKB	Q9Y2K1	ZBTB1	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:24657165		9606	UniProt		P
+UniProtKB	Q9Y2K1	ZBTB1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:24657165		9606	UniProt		P
+UniProtKB	Q9Y2K1	ZBTB1	involved_in	GO:0019985	translesion synthesis	ECO:0000315	IMP	PMID:24657165		9606	UniProt		P
+UniProtKB	Q9Y2K7	KDM2A	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:21187428		9606	UniProt		P
+UniProtKB	Q9Y2M0	FAN1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:20603015		9606	UniProt		P
+UniProtKB	Q9Y2M0	FAN1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000315	IMP	PMID:20603016		9606	UniProt		P
+UniProtKB	Q9Y2M0	FAN1	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:20603073		9606	UniProt		P
+UniProtKB	Q9Y2M0	FAN1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:20603015		9606	UniProt		P
+UniProtKB	Q9Y2M0	FAN1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:20603016		9606	UniProt		P
+UniProtKB	Q9Y2M0	FAN1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:25430771		9606	UniProt		P
+UniProtKB	Q9Y2M0	FAN1	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:25430771		9606	UniProt		P
+UniProtKB	Q9Y2S7	POLDIP2	involved_in	GO:0070987	error-free translesion synthesis	ECO:0000314	IDA	PMID:24191025		9606	UniProt		P
+UniProtKB	Q9Y3Z3	SAMHD1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28834754		9606	UniProt		P
+UniProtKB	Q9Y3Z3	SAMHD1	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:29670289		9606	UniProt		P
+UniProtKB	Q9Y3Z3	SAMHD1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:28834754		9606	UniProt		P
+UniProtKB	Q9Y3Z3	SAMHD1	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:29670289		9606	UniProt		P
+UniProtKB	Q9Y530	OARD1	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:23481255		9606	UniProt		P
+UniProtKB	Q9Y5J5	PHLDA3	involved_in	GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	ECO:0000314	IDA	PMID:19203586		9606	UniProt		P
+UniProtKB	Q9Y5T5	USP16	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:20550933		9606	UniProt		P
+UniProtKB	Q9Y620	RAD54B	acts_upstream_of_or_within	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:16428451		9606	MGI		P
+UniProtKB	Q9Y620	RAD54B	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:16428451		9606	UniProt		P
+UniProtKB	Q9Y6F1	PARP3	acts_upstream_of_or_within	GO:0006302	double-strand break repair	ECO:0000315	IMP	PMID:21211721		9606	MGI		P
+UniProtKB	Q9Y6F1	PARP3	acts_upstream_of_or_within	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:21270334		9606	MGI		P
+UniProtKB	Q9Y6F1	PARP3	acts_upstream_of_or_within	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000316	IGI	PMID:21211721	UniProtKB:Q8IW19	9606	MGI		P
+UniProtKB	Q9Y6I4	USP3	involved_in	GO:0006281	DNA repair	ECO:0000315	IMP	PMID:17980597		9606	UniProt		P
+UniProtKB	Q9Y6I4	USP3	involved_in	GO:0140861	DNA repair-dependent chromatin remodeling	ECO:0000314	IDA	PMID:17980597		9606	UniProt		P
+UniProtKB	Q9Y6I9	TEX264	involved_in	GO:0106300	protein-DNA covalent cross-linking repair	ECO:0000314	IDA	PMID:32152270		9606	UniProt		P
+UniProtKB	Q9Y6K9	IKBKG	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:14651848		9606	UniProt		P
+UniProtKB	Q9Y6K9	IKBKG	involved_in	GO:0006974	DNA damage response	ECO:0000315	IMP	PMID:25861989		9606	UniProt		P
+UniProtKB	Q9Y6X9	MORC2	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:23260667		9606	UniProt		P
+ComplexPortal	CPX-1879	arpa_human	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:20545304		9606	ComplexPortal		P
+ComplexPortal	CPX-2526	rfp_human	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:17102137		9606	ComplexPortal		P
+ComplexPortal	CPX-2669	xpc_human-1	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:11279143		9606	ComplexPortal		P
+ComplexPortal	CPX-308	ddb1-ddb2_human	involved_in	GO:0070914	UV-damage excision repair	ECO:0000314	IDA	PMID:14751237		9606	ComplexPortal		P
+ComplexPortal	CPX-3301	btr_human	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:23543748		9606	ComplexPortal		P
+ComplexPortal	CPX-369	rrm1-rrm2b_human	involved_in	GO:0006281	DNA repair	ECO:0000314	IDA	PMID:11719458		9606	ComplexPortal		P
+ComplexPortal	CPX-478	ercc1-xpf_human	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000314	IDA	PMID:22547097		9606	ComplexPortal		P
+ComplexPortal	CPX-478	ercc1-xpf_human	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000315	IMP	PMID:14690602		9606	BHF-UCL	part_of(GO:0061819),occurs_in(GO:0000781)|part_of(GO:1905765),occurs_in(GO:0000781)	P
+ComplexPortal	CPX-482	inip-ints3-nabp2_human	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+ComplexPortal	CPX-511	eme1-mus81_human	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:18413719		9606	ComplexPortal		P
+ComplexPortal	CPX-586	eme2-mus81_human	involved_in	GO:0006302	double-strand break repair	ECO:0000314	IDA	PMID:17289582		9606	ComplexPortal		P
+ComplexPortal	CPX-614	inip-ints3-nabp1_human	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+ComplexPortal	CPX-618	lig4_xrcc4_human	involved_in	GO:0006303	double-strand break repair via nonhomologous end joining	ECO:0000314	IDA	PMID:19332554		9606	ComplexPortal		P
+ComplexPortal	CPX-6266	fancm-faap24-1	involved_in	GO:0036297	interstrand cross-link repair	ECO:0000314	IDA	PMID:20347429		9606	ComplexPortal		P
+ComplexPortal	CPX-77	msh2-msh3_human	involved_in	GO:0006298	mismatch repair	ECO:0000314	IDA	PMID:9677427		9606	ComplexPortal		P
+ComplexPortal	CPX-8175	slx1-slx4_human	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:19596236		9606	ComplexPortal		P
+ComplexPortal	CPX-845	brca2-palb2_human	involved_in	GO:0000724	double-strand break repair via homologous recombination	ECO:0000314	IDA	PMID:28398198		9606	ComplexPortal		P
+ComplexPortal	CPX-900	saga-kat2a_human	involved_in	GO:0006289	nucleotide-excision repair	ECO:0000315	IMP	PMID:11564863		9606	UniProt		P
+ComplexPortal	CPX-9901	mlh1-pms2_human	involved_in	GO:0000710	meiotic mismatch repair	ECO:0000314	IDA	PMID:16873062		9606	ComplexPortal		P
+ComplexPortal	CPX-994	dna_pol_zeta_human	involved_in	GO:0042276	error-prone translesion synthesis	ECO:0000314	IDA	PMID:24449906		9606	ComplexPortal		P
+RNAcentral	URS000030BD69_9606	Homo sapiens (human) hsa-miR-34a-5p	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:30111844		9606	ARUK-UCL		P
+RNAcentral	URS00005DBAF3_9606	Homo sapiens (human) hsa-miR-193a-3p	involved_in	GO:0006974	DNA damage response	ECO:0000314	IDA	PMID:25542424		9606	ARUK-UCL	occurs_in(UBERON:0001255)	P
