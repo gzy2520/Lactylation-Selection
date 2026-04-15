@@ -1,40 +1,40 @@
 # Lactylation-Selection
 
-> A pathway-centric analysis repository for classifying lactylation-related DNA repair candidates, comparing category systems, and visualizing pathway structure with UMAP and Venn diagrams.
+> 一个围绕乳酰化相关 DNA 修复候选基因展开的通路分类与可视化项目，包含规则化分类、UMAP 投影和多集合重叠分析。
 
-## Overview
+## 项目简介
 
-This project focuses on selecting and organizing DNA damage repair candidates in a lactylation-related context. The repository combines curated pathway dictionaries, hybrid rule-based classification, dimensionality reduction, and multi-set overlap visualization to summarize how candidate genes distribute across repair programs.
+本仓库用于整理和分析乳酰化背景下的 DNA damage repair 候选基因。项目将人工整理的通路字典、规则化分类、降维展示和 Venn 交叉可视化串联起来，用来回答这些候选基因在不同 DNA repair 程序中的分布关系。
 
-Current materials in the repository include:
+目前仓库中包含的核心内容有：
 
-- **55 candidate genes** with pathway annotations
-- a **5-type** repair classification workflow
-- an expanded **8-type** repair classification workflow
-- UMAP-ready summary tables and publication-style plots
-- Venn-based overlap visualizations for major DNA repair branches
+- **55 个候选基因**及其通路注释结果
+- 一个 **5 类 DNA repair** 分类流程
+- 一个 **8 类 DNA repair** 分类流程
+- 可直接用于可视化的 UMAP 数据表与图形输出
+- 针对主要修复通路重叠关系的 Venn 分析图
 
-## Analysis Logic
+## 分析思路
 
 ```mermaid
 flowchart LR
-    A[Candidate symbols / pathway annotations] --> B[Exact pathway dictionary]
-    A --> C[Fuzzy keyword rescue]
-    B --> D[5-type classification]
+    A["候选基因与 pathway 注释"] --> B["精确匹配字典"]
+    A --> C["关键词兜底匹配"]
+    B --> D["5 类分类"]
     C --> D
-    B --> E[8-type classification]
+    B --> E["8 类分类"]
     C --> E
-    D --> F[UMAP projection]
-    E --> G[UMAP projection]
-    D --> H[Venn input table]
-    H --> I[Annotated Venn visualization]
+    D --> F["UMAP 投影"]
+    E --> G["UMAP 投影"]
+    D --> H["Venn 输入表"]
+    H --> I["注释版 Venn 图"]
 ```
 
-## Classification Systems
+## 两套分类体系
 
-### 5-type scheme
+### 5 类分类
 
-The 5-type workflow groups pathways into:
+5 类版本将候选通路归并为：
 
 - `HR`
 - `NHEJ`
@@ -42,11 +42,11 @@ The 5-type workflow groups pathways into:
 - `NER`
 - `Others`
 
-This version is useful for broad structure discovery and for concise figure communication.
+这个版本更适合做整体结构展示和较简洁的论文图。
 
-### 8-type scheme
+### 8 类分类
 
-The 8-type workflow expands the repair space into:
+8 类版本将修复程序进一步拆分为：
 
 - `HR`
 - `NHEJ`
@@ -57,41 +57,41 @@ The 8-type workflow expands the repair space into:
 - `DRR`
 - `CP`
 
-This version is more suitable when checkpoint signaling and specialized repair branches need to be separated from the major repair classes.
+这个版本更适合区分 checkpoint / 通用 DDR 与具体修复路径之间的差异。
 
-## Main Scripts
+## 主要脚本
 
-| File | Role |
+| 文件 | 作用 |
 | --- | --- |
-| `Py/classify_5type.py` | Exact-match-first plus fuzzy-rescue classification into five repair groups |
-| `Py/classify_8type.py` | Expanded eight-group classification with general DDR / checkpoint handling |
-| `Py/umap_5type.py` | Builds 5-type feature matrix and exports UMAP-ready coordinates |
-| `Py/umap_8type.py` | Builds 8-type feature matrix and exports UMAP-ready coordinates |
-| `Py/venn_plot.py` | Draws annotated Venn figures for overlapping repair memberships |
-| `Py/unique_pathway.py` | Utility for extracting unique pathway signals from the candidate set |
+| `Py/classify_5type.py` | 基于精确匹配优先、关键词兜底的 5 类分类脚本 |
+| `Py/classify_8type.py` | 扩展到 8 类 repair 程序的分类脚本 |
+| `Py/umap_5type.py` | 构建 5 类特征矩阵并导出 UMAP 数据 |
+| `Py/umap_8type.py` | 构建 8 类特征矩阵并导出 UMAP 数据 |
+| `Py/venn_plot.py` | 绘制带注释的 DNA repair 通路重叠 Venn 图 |
+| `Py/unique_pathway.py` | 提取独特 pathway 信号的辅助脚本 |
 
-## Repository Layout
+## 仓库结构
 
 ```text
 .
-├── Py/                         # classification, UMAP preparation, Venn plotting
+├── Py/                         # 分类、UMAP 准备与 Venn 绘图脚本
 ├── R/
-│   ├── filter/                # processed tables and figure outputs
-│   ├── paper/                 # supporting dataset tables
+│   ├── filter/                # 处理后的表格和图像输出
+│   ├── paper/                 # 支撑分析的数据表
 │   ├── genesets.tsv
 │   └── kla_ddr_unique.csv
 └── README.md
 ```
 
-## Key Outputs
+## 关键输出
 
-### Classification results
+### 分类结果
 
 - `R/filter/classified_symbol.csv`
 - `R/filter/pathway_counts.csv`
 - `R/filter/divided_symbol.csv`
 
-### Embedding and visualization
+### 降维与可视化结果
 
 - `R/filter/umap_5type_data.csv`
 - `R/filter/umap_8type_data.csv`
@@ -99,39 +99,39 @@ This version is more suitable when checkpoint signaling and specialized repair b
 - `R/filter/umap_8type.png`
 - `Py/venn_final_corrected.png`
 
-## Figures
+## 图示
 
 <table>
   <tr>
     <td align="center">
       <img src="R/filter/umap_5type.png" alt="UMAP 5-type" width="320" />
       <br />
-      <sub>Five-class UMAP view of the candidate genes.</sub>
+      <sub>5 类 repair 分类下的 UMAP 结果。</sub>
     </td>
     <td align="center">
       <img src="R/filter/umap_8type.png" alt="UMAP 8-type" width="320" />
       <br />
-      <sub>Eight-class UMAP view with finer repair-category separation.</sub>
+      <sub>8 类 repair 分类下的 UMAP 结果。</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="Py/venn_final_corrected.png" alt="Annotated Venn" width="520" />
       <br />
-      <sub>Annotated overlap map across major repair pathways.</sub>
+      <sub>主要 DNA repair 通路之间的候选基因重叠关系图。</sub>
     </td>
   </tr>
 </table>
 
-## Data Notes
+## 数据说明
 
-- The repository stores pathway annotations in `STANDARD_NAME`-style lists.
-- Classification is not based on one rule only: it uses **exact pathway dictionaries first**, then falls back to **keyword rescue** for unmatched entries.
-- The downstream UMAP coordinates are computed from pathway-composition proportions rather than raw labels, so hybrid genes remain interpretable.
+- 仓库中的通路注释主要以 `STANDARD_NAME` 形式存储。
+- 分类不是单一规则判断，而是先走**精确字典匹配**，再用**关键词兜底召回**未命中的通路。
+- UMAP 不是直接基于单个标签作图，而是基于每个基因在不同 repair 通路上的组成比例，因此更适合展示 hybrid 类型。
 
-## Reproducibility
+## 复现说明
 
-### Python dependencies
+### Python 依赖
 
 - `pandas`
 - `numpy`
@@ -139,17 +139,17 @@ This version is more suitable when checkpoint signaling and specialized repair b
 - `umap-learn`
 - `venn`
 
-### R-side outputs
+### 已有结果
 
-The repository already contains processed CSV, PDF, and PNG outputs under [`R/filter/`](R/filter), so you can inspect the results directly even without rerunning the scripts.
+仓库已经保存了 `R/filter/` 下的大部分 CSV、PDF 和 PNG 输出，因此即使不重新跑脚本，也可以直接查看主要结果。
 
-### Important note before rerunning
+### 重新运行前需要注意
 
-Like many analysis notebooks/scripts built during active project work, several Python files still use **absolute local paths**. Update those paths before running the pipeline in a new environment.
+部分 Python 脚本保留了原始分析阶段使用的**绝对路径**。如果要在新的目录结构中复现，请先统一修改路径配置。
 
-## Recommended Reading Order
+## 建议阅读顺序
 
-1. Open `R/filter/classified_symbol.csv` to see the final labels.
-2. Check `R/filter/umap_5type.png` and `R/filter/umap_8type.png` for overall structure.
-3. Use `Py/classify_5type.py` and `Py/classify_8type.py` to understand the rule system.
-4. Use `Py/venn_plot.py` if your focus is overlap interpretation and figure generation.
+1. 先打开 `R/filter/classified_symbol.csv` 看最终分类结果。
+2. 再看 `R/filter/umap_5type.png` 和 `R/filter/umap_8type.png`，快速把握整体结构。
+3. 如果想了解分类规则，重点阅读 `Py/classify_5type.py` 和 `Py/classify_8type.py`。
+4. 如果重点在通路重叠解释，则看 `Py/venn_plot.py` 和最终的 Venn 图输出。
